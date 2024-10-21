@@ -162,7 +162,8 @@ DATASET - Options
    c. Add column with indicator combinations of 3 and 5, such as "UUU", "DDD" and "UUUUU", "DDDDD".\
    d. Calculate the probabilities of next day return signs for each indicator combination. 
 3. Test the model, with the goal of achieving x >= 65% accuracy.
-4. If the result is x < 65% -> than there exists hidden variables.
+   a. The current mean accuracy is 55% ... 
+5. If the result is x < 65% -> than there exists hidden variables.
 
 ## Hidden Markov model Research
 **Goal**: Determine the trend, volatility, acceleration and sentiment states for tomorrow.\
