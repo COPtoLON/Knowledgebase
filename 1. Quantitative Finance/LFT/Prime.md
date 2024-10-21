@@ -169,6 +169,7 @@ DATASET - Options
 ## Hidden Markov model Research
 **Goal**: Determine the trend, volatility, acceleration and sentiment states for tomorrow.\
 From a dataset on an asset. Determine the combined state for each timestep.\
+**Question**: How will I make the system decide on a given state?\
 Given 4 trends states: Up, Down, Flat, Unknown.\
 Given 4 volatility states: Extreme, high, medium, low.\
 Given 4 acceleration states: increasing, decreasing, neutral, Unknown.\
