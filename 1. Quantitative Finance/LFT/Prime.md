@@ -211,7 +211,17 @@ f'(x) = 0?
 
 
 
+# Event based HFT
+When Token X goes from Pumpfun to Raydium. Buy with HFT and sell.
+[Pumpfun](https://pump.fun/board)
+raydium?
+[dexscanner](https://dexscreener.com/)
+Jito fees?
+spamming/crowding
 
+Sandwich/MEV bot
+
+KuCoin
 
 
 
