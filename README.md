@@ -151,3 +151,4 @@ https://github.com/antontarasenko/awesome-economics
 https://github.com/Finance-Hub/FinanceHub
 
 https://www.deloitte.com/lu/en/services/risk-advisory/services/deloitte-quantitative-finance-master-classes.html
+https://macrosynergy.com/
