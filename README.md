@@ -107,6 +107,10 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 10. [Goldman Sachs](https://github.com/goldmansachs) - these guys don't have anything interesting, dig through their followers.
 11. https://www.acquired.fm/episodes/renaissance-technologies
 
+**Book collections**
+<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/favicon.ico" width="48">
+
 
 https://github.com/georgezouq/awesome-ai-in-finance
 
