@@ -113,7 +113,7 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 <img src="https://github.com/CtoL95/Knowledgebase/blob/main/books2.jpg" width="500">
 
-<img src="https://github.com/CtoL95/Knowledgebase/blob/main/books3.jpg" width="500">
+<img src="https://github.com/CtoL95/Knowledgebase/blob/main/books3.jpeg" width="500">
 
 https://github.com/georgezouq/awesome-ai-in-finance
 
