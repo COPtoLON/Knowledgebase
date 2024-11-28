@@ -108,8 +108,10 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 11. https://www.acquired.fm/episodes/renaissance-technologies
 
 **Book collections**
-<img src="https://github.com/CtoL95/Knowledgebase/blob/main/books1.jpg" width="250">
-<img src="https://github.com/CtoL95/Knowledgebase/blob/main/books2.jpg" width="48">
+
+<img src="https://github.com/CtoL95/Knowledgebase/blob/main/books1.jpg" width="500">
+
+<img src="https://github.com/CtoL95/Knowledgebase/blob/main/books2.jpg" width="500">
 
 
 https://github.com/georgezouq/awesome-ai-in-finance
