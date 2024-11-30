@@ -30,7 +30,7 @@ If you're just starting out these won't be relevant for you yet. Take a look at 
 #### [Derivatives](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/Derivatives#readme)
 Description: Focuses on valuing financial derivatives (e.g., options, futures, and swaps) and managing the risks associated with them.
 Methods: Stochastic calculus, numerical methods (e.g., Monte Carlo simulations), and partial differential equations.
-#### [Trading]()
+#### [Trading](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/Trading#readme)
 Description: Involves designing automated trading strategies that execute trades at high speeds based on quantitative models.
 Focus Areas: Market microstructure, statistical arbitrage, and real-time decision-making.
 9. Statistical Arbitrage
