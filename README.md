@@ -54,7 +54,7 @@ Contributors: [Aksel Fristrup](https://github.com/afristrup)
 
 # Subject introduction pages
 
-## Quantitative finance - [link](https://github.com/CopenhagenToLondon/Knowledgebase/blob/main/1.%20Quantitative%20Finance/Introduction.md)
+## Quantitative finance - [link](https://github.com/CtoL95/Knowledgebase/blob/main/1.%20Quantitative%20Finance/README.md)
 * Trading
 * Portfolio management
 * Risk management
