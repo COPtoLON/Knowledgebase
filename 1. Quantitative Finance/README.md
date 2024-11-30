@@ -6,16 +6,16 @@
 4. Resources
 
 
-
+## Introduction
 Quantitative finance, often referred to as "quant finance," is a multidisciplinary field at the intersection of mathematics, statistics, computer science, and financial theory. It focuses on the development and application of sophisticated mathematical models and computational techniques to analyze financial markets, manage risks, and optimize investment strategies. This field plays a critical role in modern finance, enabling institutions to price complex derivatives, forecast market trends, and develop algorithmic trading systems. As financial markets become increasingly data-driven, quantitative finance continues to evolve, leveraging advancements in machine learning, big data analytics, and high-performance computing to address the growing complexity and speed of global trading environments.
 
-**Structure**
+## Structure
 1. areas of quantitative finance
 2. General subject network
 3. Books, videos, repositories
 
 
-## Areas of Quantitative finance
+### Areas of Quantitative finance
 The links associated with each subject will take you to their respective area pages, which will go into depth with each of the areas.
 If you're just starting out these won't be relevant for you yet. Take a look at the general subject network and books, videos and repositories further down, after reading a bit about each of the areas you find interesting.
 
@@ -60,7 +60,14 @@ Description: Involves creating models to identify patterns, predict market movem
 #### [Cryptocurrency and Blockchain]()
 Description: Applies quantitative methods to analyze digital assets, tokenomics, and blockchain technology.
 
-## Quantitative finance network?
+## Network
+If you're starting out, where should you look to establish your network?
+1. Help with introduction
+2. Forums
+3. Linkedin profiles
+4. Online resources, videos, etc.
+5. Job sites
+
 
 Recommended:
 
@@ -77,7 +84,7 @@ Recommended:
 
 **Online resources**
 
-## Relevant Quantitative finance material
+## Resources
 
 ### Books
 
