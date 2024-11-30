@@ -27,25 +27,33 @@ Popular Strategies: Momentum investing, factor investing, and machine learning-d
 ## [Fixed Income and Interest Rates]()
 Description: Focuses on pricing and managing risks in fixed-income securities like bonds.
 Models: Yield curve modeling, term structure models (e.g., Vasicek, CIR), and credit spread analysis.\
-8. Credit Risk Modeling\
+
+## [Credit]()
 Description: Assesses the likelihood of default and models credit events for corporate bonds, loans, and other credit-sensitive instruments.
 Applications: Credit scoring, default probability estimation, and collateralized debt obligation (CDO) pricing.\
+
 9. Statistical Arbitrage\
 Description: Identifies market inefficiencies and exploits them through statistical models.
 Tools: Time series analysis, pair trading, and machine learning.\
-10. Machine Learning and Artificial Intelligence in Finance\
+
+## [Machine Learning and AI in Finance]()
 Description: Applies AI techniques to improve forecasting, trading, and risk assessment.
 Popular Methods: Neural networks, natural language processing (NLP), and reinforcement learning.\
-11. Energy and Commodity Quantitative Finance\
+
+## [Energy and commodities]()
 Description: Focuses on modeling and managing risks in energy markets and commodities like oil, gas, and metals.
 Techniques: Stochastic modeling, optimization, and real options analysis.\
-12. Financial Engineering\
+
+## [Financial Engineering]()
 Description: Designs new financial products and structures, such as exotic derivatives and securitization frameworks.
 Focus: Combining creativity with mathematical rigor to meet market demands.\
-13. Behavioral and Experimental Finance\
+
+## [Behavioral and Experimental Finance]()
 Description: Studies the influence of human behavior on financial markets using quantitative tools.
 Overlap: Bridges traditional finance with psychology and data science.\
-14. Quantitative Research and Strategy Development\
+
+## [Quantitative Research and Strategy]()
 Description: Involves creating models to identify patterns, predict market movements, and guide decision-making.\
-15. Cryptocurrency and Blockchain Analytics\
+
+## [Cryptocurrency and Blockchain]()
 Description: Applies quantitative methods to analyze digital assets, tokenomics, and blockchain technology.\
