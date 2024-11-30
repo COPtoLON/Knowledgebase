@@ -1,3 +1,11 @@
+1. intro - what is? why is important? 
+2. if you want to donate/contribute
+3. structure
+4. contact?
+
+
+
+
 # There will be significant changes in the coming months
 
 Over the coming months I will change the layout and structure of this repository.
