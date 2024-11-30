@@ -9,6 +9,8 @@ Quantitative finance, often referred to as "quant finance," is a multidisciplina
 
 
 ## Areas of Quantitative finance
+The links associated with each subject will take you to their respective area pages, which will go into depth with each of the areas.
+If you're just starting out these won't be relevant for you yet. Take a look at the general subject network and books, videos and repositories further down, after reading a bit about each of the areas you find interesting.
 
 #### [Derivatives]()
 Description: Focuses on valuing financial derivatives (e.g., options, futures, and swaps) and managing the risks associated with them.
