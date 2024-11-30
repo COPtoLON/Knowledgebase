@@ -11,7 +11,7 @@ desired by others.
 ## If you want to contribute
 
 If you've found yourself wanting to contribute either with some content or with
-a donation. Please feel free to reach out to me on Email: mark@brezina.dk or [Mark Brezina - Linkedin](https://www.linkedin.com/in/markdbrezina/)
+a donation. Please feel free to reach out to me on Email: mark@brezina.dk or [Mark Brezina - Linkedin](https://www.linkedin.com/in/ctol95/)
 
 
 **Acknowledgment**\
