@@ -36,25 +36,25 @@ Focus Areas: Market microstructure, statistical arbitrage, and real-time decisio
 9. Statistical Arbitrage
 Description: Identifies market inefficiencies and exploits them through statistical models.
 Tools: Time series analysis, pair trading, and machine learning.
-#### [Portfolio management]()
+#### [Portfolio management](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/PortfolioManagement#readme)
 Description: Uses mathematical techniques to allocate assets efficiently to maximize returns for a given level of risk.
 Frameworks: Modern Portfolio Theory (MPT), mean-variance optimization, and factor models.
 6. Quantitative Investment Strategies
 Description: Develops systematic investment strategies based on quantitative models.
 Popular Strategies: Momentum investing, factor investing, and machine learning-driven approaches.
-#### [Risk management]()
+#### [Risk management](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/RiskManagement#readme)
 Description: Quantifies and mitigates financial risks such as market risk, credit risk, and operational risk.
 Key Metrics: Value-at-Risk (VaR), Conditional VaR, and stress testing.
-#### [Fixed Income and Interest Rates]()
+#### [Fixed Income and Interest Rates](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/FixedIncome#readme)
 Description: Focuses on pricing and managing risks in fixed-income securities like bonds.
 Models: Yield curve modeling, term structure models (e.g., Vasicek, CIR), and credit spread analysis.
-#### [Credit]()
+#### [Credit](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/Credit#readme)
 Description: Assesses the likelihood of default and models credit events for corporate bonds, loans, and other credit-sensitive instruments.
 Applications: Credit scoring, default probability estimation, and collateralized debt obligation (CDO) pricing.
-#### [Machine Learning and AI in Finance]()
+#### [Machine Learning and AI in Finance](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/ML-AI#readme)
 Description: Applies AI techniques to improve forecasting, trading, and risk assessment.
 Popular Methods: Neural networks, natural language processing (NLP), and reinforcement learning.
-#### [Energy and commodities]()
+#### [Energy and commodities](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/EnergyCommodities#readme)
 Description: Focuses on modeling and managing risks in energy markets and commodities like oil, gas, and metals.
 Techniques: Stochastic modeling, optimization, and real options analysis.
 #### [Financial Engineering]()
