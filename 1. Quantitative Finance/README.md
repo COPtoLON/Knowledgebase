@@ -53,4 +53,19 @@ Description: Applies quantitative methods to analyze digital assets, tokenomics,
 
 ## Quantitative finance network?
 
+Recommended:
+
+**Forums**
+[Wilmott forum]()
+[Quantnet]()
+[Stackexchange]()
+
+**Youtube**
+
+**linkedin profiles**
+
+**courses**
+
+**Online resources**
+
 ## Relevant Quantitative finance material
