@@ -3,7 +3,32 @@
 3. structure
 4. contact?
 
-
+- SUBJECT
+  1. introduction
+  2. subsets - links to respective subdivisions
+  4. relevant books - links to purchase or read
+  5. relevant organizations - links to websites
+  6. relevant forums - links to websites
+  7. relevant people or leaders - links
+  8. relevant videos - links
+  9. Relevant repositories - links
+ 
+- SUB-SUBJECT
+  1. Introduction
+    a. What is it?
+    b. Structure of walkthrough? 
+  2. Idea 1
+    a. Theoretical explanation
+    b. Practical explanation
+    c. Algorithm walkthrough
+    d. Code?
+    e. Expected results? 
+  4. Idea 2
+    a. Theoretical explanation
+    b. Practical explanation
+    c. Algorithm walkthrough
+    d. Code?
+    e. Expected results? 
 
 
 # There will be significant changes in the coming months
