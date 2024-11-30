@@ -16,10 +16,10 @@ long and detailed: Because you will be working with money, in the efforts to inc
 
 ## Structure
 
-Areas of finance -> areas of quantitative finance
-Salary and profit structures -> ranking system within companies
-Company structures -> mathematical subject structures
-where do I find help? -> who do I connect with?
+Areas of finance -> areas of quantitative finance\
+Salary and profit structures -> ranking system within companies\
+Company structures -> mathematical subject structures\
+where do I find help? -> who do I connect with?\
 What resources do I have? -> where do I apply my resources?
 
 
