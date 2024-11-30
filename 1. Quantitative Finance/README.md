@@ -4,23 +4,27 @@ Quantitative finance, often referred to as "quant finance," is a multidisciplina
 
 There are different areas of Quantitative finance.
 
-1. [Derivatives]()
+## [Derivatives]()
 Description: Focuses on valuing financial derivatives (e.g., options, futures, and swaps) and managing the risks associated with them.
 Methods: Stochastic calculus, numerical methods (e.g., Monte Carlo simulations), and partial differential equations.\
 
-2. [Trading]()
+## [Trading]()
 Description: Involves designing automated trading strategies that execute trades at high speeds based on quantitative models.
 Focus Areas: Market microstructure, statistical arbitrage, and real-time decision-making.\
-4. Portfolio Optimization and Asset Management\
+
+## [Portfolio management]()
 Description: Uses mathematical techniques to allocate assets efficiently to maximize returns for a given level of risk.
 Frameworks: Modern Portfolio Theory (MPT), mean-variance optimization, and factor models.\
-5. Risk Measurement and Management\
+
+## [Risk management]()
 Description: Quantifies and mitigates financial risks such as market risk, credit risk, and operational risk.
 Key Metrics: Value-at-Risk (VaR), Conditional VaR, and stress testing.\
+
 6. Quantitative Investment Strategies\
 Description: Develops systematic investment strategies based on quantitative models.
 Popular Strategies: Momentum investing, factor investing, and machine learning-driven approaches.\
-7. Fixed Income and Interest Rate Modeling\
+
+## [Fixed Income and Interest Rates]()
 Description: Focuses on pricing and managing risks in fixed-income securities like bonds.
 Models: Yield curve modeling, term structure models (e.g., Vasicek, CIR), and credit spread analysis.\
 8. Credit Risk Modeling\
