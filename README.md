@@ -17,18 +17,18 @@
   1. Introduction
     a. What is it?\
     b. Structure of walkthrough? 
-  2. Idea 1\
+  2. Idea 1
     a. Theoretical explanation\
     b. Practical explanation\
     c. Algorithm walkthrough\
     d. Code?\
-    e. Expected results?\
+    e. Expected results?
   3. Idea 2
     a. Theoretical explanation\
     b. Practical explanation\
     c. Algorithm walkthrough\
     d. Code?\
-    e. Expected results?\ 
+    e. Expected results?
 
 
 # There will be significant changes in the coming months
