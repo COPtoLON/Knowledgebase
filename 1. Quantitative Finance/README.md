@@ -57,15 +57,15 @@ Popular Methods: Neural networks, natural language processing (NLP), and reinfor
 #### [Energy and commodities](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/EnergyCommodities#readme)
 Description: Focuses on modeling and managing risks in energy markets and commodities like oil, gas, and metals.
 Techniques: Stochastic modeling, optimization, and real options analysis.
-#### [Financial Engineering]()
+#### [Financial Engineering](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/FinEngineering#readme)
 Description: Designs new financial products and structures, such as exotic derivatives and securitization frameworks.
 Focus: Combining creativity with mathematical rigor to meet market demands.
-#### [Behavioral and Experimental Finance]()
+#### [Behavioral and Experimental Finance](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/BehavioralFinance#readme)
 Description: Studies the influence of human behavior on financial markets using quantitative tools.
 Overlap: Bridges traditional finance with psychology and data science.
-#### [Quantitative Research and Strategy]()
+#### [Quantitative Research and Strategy](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/StrategyResearch#readme)
 Description: Involves creating models to identify patterns, predict market movements, and guide decision-making.
-#### [Cryptocurrency and Blockchain]()
+#### [Cryptocurrency and Blockchain](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/CryptoBlockchain#readme)
 Description: Applies quantitative methods to analyze digital assets, tokenomics, and blockchain technology.
 
 ## Network
