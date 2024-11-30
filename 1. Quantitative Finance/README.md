@@ -4,7 +4,7 @@ Quantitative finance, often referred to as "quant finance," is a multidisciplina
 
 ## Areas of Quantitative finance
 
-### [Derivatives]()
+**[Derivatives]()**
 Description: Focuses on valuing financial derivatives (e.g., options, futures, and swaps) and managing the risks associated with them.
 Methods: Stochastic calculus, numerical methods (e.g., Monte Carlo simulations), and partial differential equations.\
 
