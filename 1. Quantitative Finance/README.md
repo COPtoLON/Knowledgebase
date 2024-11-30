@@ -2,7 +2,7 @@
 
 Quantitative finance, often referred to as "quant finance," is a multidisciplinary field at the intersection of mathematics, statistics, computer science, and financial theory. It focuses on the development and application of sophisticated mathematical models and computational techniques to analyze financial markets, manage risks, and optimize investment strategies. This field plays a critical role in modern finance, enabling institutions to price complex derivatives, forecast market trends, and develop algorithmic trading systems. As financial markets become increasingly data-driven, quantitative finance continues to evolve, leveraging advancements in machine learning, big data analytics, and high-performance computing to address the growing complexity and speed of global trading environments.
 
-There are different areas of Quantitative finance.
+## Areas of Quantitative finance
 
 ### [Derivatives]()
 Description: Focuses on valuing financial derivatives (e.g., options, futures, and swaps) and managing the risks associated with them.
