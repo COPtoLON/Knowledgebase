@@ -71,3 +71,13 @@ Recommended:
 **Online resources**
 
 ## Relevant Quantitative finance material
+
+### Books
+
+### videos
+
+### websites
+
+### research papers
+
+### code
