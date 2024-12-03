@@ -7,12 +7,13 @@
 
 
 ## Introduction
-What?\
+
+### What?
 Quantitative finance, often referred to as "quant finance," is a multidisciplinary field at the intersection of mathematics, statistics, computer science, and financial theory. It focuses on the development and application of sophisticated mathematical models and computational techniques to analyze financial markets, manage risks, and optimize investment strategies. This field plays a critical role in modern finance, enabling institutions to price complex derivatives, forecast market trends, and develop algorithmic trading systems. As financial markets become increasingly data-driven, quantitative finance continues to evolve, leveraging advancements in machine learning, big data analytics, and high-performance computing to address the growing complexity and speed of global trading environments.
 
-why?\
-short and sweet: Because you'll earn very nicely and your work won't be hard on your mind and body.\
-long and detailed: Because you will be working with money, in the efforts to increase and optimize the use of those money, with the use of abstract and advanced mathematics in a practical and problem solving setting, where advances in technology, IT and software development will be worth your effort and more. It's a forefront of human society at the moment, it's competitive and the developments in this area will greatly benefit all of mankind.
+### why?
+**short and sweet:** Because you'll earn very nicely and your work won't be hard on your mind and body.\
+**long and detailed:** Because you will be working with money, in the efforts to increase and optimize the use of those money, with the use of abstract and advanced mathematics in a practical and problem solving setting, where advances in technology, IT and software development will be worth your effort and more. It's a forefront of human society at the moment, it's competitive and the developments in this area will greatly benefit all of mankind.
 
 ## Structure
 
