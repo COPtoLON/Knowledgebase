@@ -19,8 +19,7 @@ long and detailed: Because you will be working with money, in the efforts to inc
 Areas of finance -> areas of quantitative finance\
 Salary and profit structures -> ranking system within companies\
 Company structures -> mathematical subject structures\
-where do I find help? -> who do I connect with?\
-What resources do I have? -> where do I apply my resources?
+
 
 
 ### Areas of Quantitative finance
@@ -71,6 +70,9 @@ Description: Applies quantitative methods to analyze digital assets, tokenomics,
 ### Salaries, companies and careers
 
 ## Network
+where do I find help? -> who do I connect with?
+
+
 If you're starting out, where should you look to establish your network?
 1. Help with introduction
 2. Forums
@@ -94,7 +96,10 @@ Recommended:
 
 **Online resources**
 
+
+
 ## Resources
+What resources do I have? -> where do I apply my resources?
 
 ### Books
 
