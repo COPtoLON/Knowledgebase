@@ -68,6 +68,8 @@ Description: Involves creating models to identify patterns, predict market movem
 #### [Cryptocurrency and Blockchain](https://github.com/CtoL95/Knowledgebase/tree/main/1.%20Quantitative%20Finance/CryptoBlockchain#readme)
 Description: Applies quantitative methods to analyze digital assets, tokenomics, and blockchain technology.
 
+### Salaries, companies and careers
+
 ## Network
 If you're starting out, where should you look to establish your network?
 1. Help with introduction
