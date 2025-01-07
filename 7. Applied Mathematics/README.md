@@ -378,7 +378,7 @@ Portfolio framework
 R=(r_1,r_2,r_3,…,r_n) which has the portfolio returns on the n different assets. 
 Portfolio values
 If one wishes to calculate a value, such as returns, means, standard deviations or perhaps Alpha or Beta. To aggregate these values from asset to portfolio level, one would have to use the following aggregation method.
-$ x_\pi = \sum_{i=1}^{n} \pi_i \cdot X_i$
+$x_\pi = \sum_{i=1}^{n} \pi_i \cdot X_i$
 Where X can be replaces with another symbol to represent the desired value.
 An example is return.
 R_π=∑_(i=1)^n▒〖π_i·R_i 〗
