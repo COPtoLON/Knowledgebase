@@ -371,42 +371,42 @@ Portfolio framework
 R=(r_1,r_2,r_3,…,r_n) which has the portfolio returns on the n different assets. 
 Portfolio values
 
-Portfolio management & optimization
+# Portfolio management & optimization
 
-Portfolio framework
-π=(p_1,p_2,p_3,…,p_n ) which has portfolio weights on the n different assets.
-R=(r_1,r_2,r_3,…,r_n) which has the portfolio returns on the n different assets. 
-Portfolio values
-If one wishes to calculate a value, such as returns, means, standard deviations or perhaps Alpha or Beta. To aggregate these values from asset to portfolio level, one would have to use the following aggregation method.
-$x_\pi = \sum_{i=1}^{n} \pi_i \cdot X_i$
+## Portfolio framework
+π=(p_1,p_2,p_3,…,p_n ) which has portfolio weights on the n different assets.\
+R=(r_1,r_2,r_3,…,r_n) which has the portfolio returns on the n different assets.\ 
+Portfolio values\
+If one wishes to calculate a value, such as returns, means, standard deviations or perhaps Alpha or Beta. To aggregate these values from asset to portfolio level, one would have to use the following aggregation method.\
+$x_\pi = \sum_{i=1}^{n} \pi_i \cdot X_i$\
 Where X can be replaces with another symbol to represent the desired value.
-An example is return.
-R_π=∑_(i=1)^n▒〖π_i·R_i 〗
-Where as represented in the framework, π_i represents the I’th portfolio weight and R_i represents the I’th return. In this same way one would get.
-σ_π=∑_(i=1)^n▒〖π_i·σ_i 〗
-This calculation will either require you to have another vector σ=(σ_1,σ_2,σ_3,…,σ_n) with standard deviations, or a vector of time series of returns for each n assets in your portfolio. 
+An example is return.\
+$R_\pi = \sum_{i=1}^{n} \pi_i \cdot R_i$\
+Where as represented in the framework, π_i represents the I’th portfolio weight and R_i represents the I’th return. In this same way one would get.\
+$\sigma_\pi = \sum_{i=1}^{n} \pi_i \cdot \sigma_i$\
+This calculation will either require you to have another vector σ=(σ_1,σ_2,σ_3,…,σ_n) with standard deviations, or a vector of time series of returns for each n assets in your portfolio. \
  
-Investment performance
-Investment management and analysis
-Portfolio management and construction
-Portfolio analysis
-When talking about assets in this section, we mean any asset, such as equity, fixed income, credit, or derivatives.
-Alpha measure
-What is it?
+# Investment performance
+## Investment management and analysis
+Portfolio management and construction\
+Portfolio analysis\
+When talking about assets in this section, we mean any asset, such as equity, fixed income, credit, or derivatives.\
+Alpha measure\
+What is it?\
 The portfolio alpha, also called the Jensen index, is a measure of how much better the portfolio return in question is, than the market return.
-Keywords
+Keywords\
 Returns, risk adjusted, portfolio analysis, portfolio measurement, Jensen index, Jensen alpha
-Requirements
-R_i is the return of the entire portfolio.
-R_f is the risk free return.
-R_m is the return of the market.
-β_i is the beta of the portfolio.
+Requirements\
+$R_i$ is the return of the entire portfolio.\
+$R_f$ is the risk free return.\
+$R_m$ is the return of the market.\
+$\beta_i$ is the beta of the portfolio.\
 Algorithms
 Asset-level equation
-α=R_i-[R_f+β_i·(R_M-R_f )]
+$α=R_i-[R_f+β_i·(R_M-R_f )]$
 Portfolio-level equation
-Here R_π replaces R_i and β_π replaces β_i
-α=R_π-[R_f+β_π·(R_M-R_f )]
+Here $R_\pi$ replaces $R_i$ and $\beta_\pi$ replaces $\beta_i$
+$α=R_π-[R_f+β_π·(R_M-R_f )]$
 
 Beta measure
 What is it?
@@ -414,9 +414,9 @@ The portfolio beta, is a measure of the systematic risk or volatility of a portf
 Keywords
 Returns, risk adjusted, portfolio analysis, portfolio measurement, Portfolio beta, investment beta
 Requirements
-R_i is the return of a single asset.
-R_m is the return of the market.
-β_a is the beta of the asset.
+$R_i$ is the return of a single asset.
+$R_m$ is the return of the market.
+$\beta_a$ is the beta of the asset.
 Algorithms
 Asset-level equation
 β_a=cov(R_i,R_m )/Var(R_m ) 
@@ -425,24 +425,24 @@ Portfolio-level equation
 
 Diversification measure 
 What is it?
-The diversification measure is a measure of how much each of your assets correlate and as a singular measure, to describe if they are too correlated, meaning low diversification.
-Keywords
+The diversification measure is a measure of how much each of your assets correlate and as a singular measure, to describe if they are too correlated, meaning low diversification.\
+Keywords\
 Portfolio analysis, Portfolio measurement, diversification, risk
-Requirements
-π is the vector of portfolio weights for the portfolio given.
-σ is the vector of standard deviations for returns on each asset in the portfolio π
-Σ is the asset covariance matrix for the portfolio 
-Algorithms
-D_π=(σ^T·π)/√(π^T·Σ·π)
-Sharpe ratio
-What is it?
-The sharpe ratio is a measure for the risk adjusted relative return.
-Keywords
-Returns, risk adjusted, portfolio analysis, portfolio measurement.
-Requirements
-R_i is the portfolio return.
-R_f is the risk-free return.
-σ_i is the standard deviation of the portfolio returns.
+Requirements\
+$π$ is the vector of portfolio weights for the portfolio given.\
+$σ$ is the vector of standard deviations for returns on each asset in the portfolio π\
+$Σ$ is the asset covariance matrix for the portfolio \
+Algorithms\
+$D_π=(σ^T·π)/√(π^T·Σ·π)$
+Sharpe ratio\
+What is it?\
+The sharpe ratio is a measure for the risk adjusted relative return.\
+Keywords\
+Returns, risk adjusted, portfolio analysis, portfolio measurement.\
+Requirements\
+R_i is the portfolio return.\
+R_f is the risk-free return.\
+σ_i is the standard deviation of the portfolio returns.\
 Algorithms
 Asset-level equation
 S_i=(R_i-R_f)/σ_i 
@@ -491,40 +491,40 @@ R_f is the risk-free rate.
 
 Algorithms
 Asset-level equation
-T=(R_i-R_f)/β_i 
+$T=(R_i-R_f)/β_i$
 Portfolio-level equation
 Replace R_i with R_π as the portfolio return and β_i with β_π as the portfolio beta.
-
-T_π=(R_π-R_f)/β_π 
-
-
-
-Downside deviation
-What is it?
-The risk associated with downside returns.
-Keywords
-Risk, downside risk, downside deviation
-Requirements
-DR is the downside deviation or downside risk.
-T is the annual target return.
-r is the random variable used to represent asset returns.
-f(r) is the distribution function for the asset returns.
-Algorithms
-Asset-level equation
-
-Calculate DR
-DR=√(∫_(-∞)^T▒〖(T-r)^2  f(r)  dr〗)
-
-Portfolio level equation
-Replace r with r_π as the random variable representing the portfolio returns.
-Replace T with T_π as the target portfolio return.
-
-Calculate DR
-DR_π=√(∫_(-∞)^(T_π)▒〖(T_π-r_π )^2  f(r_pi )  dr_π 〗)
-
-
-Information ratio
-
+\
+$T_π=(R_π-R_f)/β_π$
+\
+\
+\
+Downside deviation\
+What is it?\
+The risk associated with downside returns.\
+Keywords\
+Risk, downside risk, downside deviation\
+Requirements\
+DR is the downside deviation or downside risk.\
+T is the annual target return.\
+r is the random variable used to represent asset returns.\
+f(r) is the distribution function for the asset returns.\
+Algorithms\
+Asset-level equation\
+\
+Calculate DR\
+$DR=√(∫_(-∞)^T▒〖(T-r)^2  f(r)  dr〗)$\
+\
+Portfolio level equation\
+Replace r with r_π as the random variable representing the portfolio returns.\
+Replace T with T_π as the target portfolio return.\
+\
+Calculate DR\
+$DR_π=√(∫_(-∞)^(T_π)▒〖(T_π-r_π )^2  f(r_pi )  dr_π 〗)$\
+\
+\
+Information ratio\
+\
 Mean variance framework (Also called the Markowitz framework)
 What is it?
 A framework used to represent investment portfolios, with the opportunity to optimize holdings based on the mean return and the variance of the returns.
