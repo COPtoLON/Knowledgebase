@@ -143,7 +143,7 @@ Ordinary differential equations
 Partial differential equations
 
 Mathematical optimization
-Also called mathematical programming. Link
+[Also called mathematical programming](https://en.wikipedia.org/wiki/Mathematical_optimization)
 Linear programming
 Quadratic programming
 Convex optimisation
