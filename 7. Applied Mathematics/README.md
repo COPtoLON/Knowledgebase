@@ -1,15 +1,12 @@
 Mathematics, statistics and probability
 
 Various methods
-Time series analysis
-link
-Monte carlo methods
-link
+[Time series analysis](https://en.wikipedia.org/wiki/Time_series)
+[Monte carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 Monte carlo simulations
 Monte carlo methods
 Least-squares Monte carlo methods
-Predictive modelling
-link
+[Predictive modelling](https://en.wikipedia.org/wiki/Predictive_modelling)
 Extreme value theory
 Extreme value risk theory
 
