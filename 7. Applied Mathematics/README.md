@@ -440,62 +440,62 @@ The sharpe ratio is a measure for the risk adjusted relative return.\
 Keywords\
 Returns, risk adjusted, portfolio analysis, portfolio measurement.\
 Requirements\
-R_i is the portfolio return.\
-R_f is the risk-free return.\
-σ_i is the standard deviation of the portfolio returns.\
-Algorithms
-Asset-level equation
-S_i=(R_i-R_f)/σ_i 
-Portfolio-level equation
-Here R_π replaces R_i and σ_π replaces σ_i
-S_π=(R_π-R_f)/σ_π 
+$R_i$ is the portfolio return.\
+$R_f$ is the risk-free return.\
+$\sigma_i$ is the standard deviation of the portfolio returns.\
+Algorithms\
+Asset-level equation\
+$S_i=\frac{(R_i-R_f)}{\sigma_i}$\ 
+Portfolio-level equation\
+Here $R_\pi$ replaces $R_i$ and $\sigma_\pi$ replaces $\sigma_i$\
+$S_\pi=\frac{(R_\pi-R_f)}{\sigma_\pi}$\
 
 
-Sortino ratio
-What is it?
-The Jensen index
-Keywords
+Sortino ratio\ 
+What is it?\ 
+The Jensen index\ 
+Keywords\ 
 Returns, risk adjusted, portfolio analysis, portfolio measurement.
-Requirements
-R_i is the return of an asset.
-DR is the downside deviation or downside risk.
-T is the annual target return.
-r is the random variable used to represent asset returns.
-f(r) is the distribution function for the asset returns.
-Algorithms
-Asset-level equation
+Requirements\ 
+$R_i$ is the return of an asset.\ 
+$DR$ is the downside deviation or downside risk.\ 
+$T$ is the annual target return.\ 
+$r$ is the random variable used to represent asset returns.\ 
+$f(r)$ is the distribution function for the asset returns.\ 
+Algorithms\ 
+Asset-level equation\ 
 
-Calculate DR
-DR=√(∫_(-∞)^T▒〖(T-r)^2  f(r)  dr〗)
-Calculate the Sortino ratio.
-S=(R_i-T)/DR
+Calculate DR\ 
+$DR = \sqrt{\int_{-\infty}^{T} (T-r)^2f(r) dr}$\ 
+Calculate the Sortino ratio.\ 
+$S=(R_i-T)/DR$\ 
 
-Portfolio level equation
-Replace r with r_π as the random variable representing the portfolio returns.
-Replace R_i with R_π as the portfolio return and T with T_π as the target portfolio return.
+Portfolio level equation\ 
+Replace $r$ with $r_\pi$ as the random variable representing the portfolio returns.\ 
+Replace $R_i$ with $R_\pi$ as the portfolio return and $T$ with $T_\pi$ as the target portfolio return.\ 
 
-Calculate DR
-DR_π=√(∫_(-∞)^(T_π)▒〖(T_π-r_π )^2  f(r_pi )  dr_π 〗)
-Calculate the Sortino ratio.
-S_π=(R_π-T_π)/(DR_π )
+Calculate DR\ 
+$DR = \sqrt{\int_{-\infty}^{T_\pi} (T_\pi-r_\pi)^2 f(r_\pi) dr_\pi}$
+Calculate the Sortino ratio.\ 
+$S_\pi=(R_\pi-T_\pi)/(DR_\pi )$\ 
 
-Treynor ratio
-What is it?
-The treynor ratio is a measure for the excess return of an asset or portfolio
-Keywords
-Returns, risk adjusted, portfolio analysis, portfolio measurement.
-Requirements
-R_i is the return of an asset
-R_f is the risk-free rate.
-β_i is the beta of an asset.
+Treynor ratio\ 
+What is it?\ 
+The treynor ratio is a measure for the excess return of an asset or portfolio\ 
+Keywords\ 
+Returns, risk adjusted, portfolio analysis, portfolio measurement.\ 
+Requirements\ 
+$R_i$ is the return of an asset\ 
+$R_f$ is the risk-free rate.\ 
+$\beta_i$ is the beta of an asset.\ 
 
-Algorithms
-Asset-level equation
-$T=(R_i-R_f)/β_i$
-Portfolio-level equation
-Replace R_i with R_π as the portfolio return and β_i with β_π as the portfolio beta.
+Algorithms\ 
+Asset-level equation\ 
+$T=(R_i-R_f)/\beta_i$\ 
+Portfolio-level equation\ 
+Replace $R_i$ with $R_\pi$ as the portfolio return and $\beta_i$ with $\beta_\pi$ as the portfolio beta.\ 
 \
-$T_π=(R_π-R_f)/β_π$
+$T_\pi=(R_\pi-R_f)/\beta_\pi$\ 
 \
 \
 \
@@ -506,21 +506,21 @@ Keywords\
 Risk, downside risk, downside deviation\
 Requirements\
 DR is the downside deviation or downside risk.\
-T is the annual target return.\
-r is the random variable used to represent asset returns.\
-f(r) is the distribution function for the asset returns.\
+$T$ is the annual target return.\
+$r$ is the random variable used to represent asset returns.\
+$f(r)$ is the distribution function for the asset returns.\
 Algorithms\
 Asset-level equation\
 \
 Calculate DR\
-$DR=√(∫_(-∞)^T▒〖(T-r)^2  f(r)  dr〗)$\
+$DR = \sqrt{\int_{-\infty}^{T} (T-r)^2f(r) dr}$\ 
 \
 Portfolio level equation\
-Replace r with r_π as the random variable representing the portfolio returns.\
-Replace T with T_π as the target portfolio return.\
+Replace $r$ with $r_´\pi$ as the random variable representing the portfolio returns.\
+Replace $T$ with $T_\pi$ as the target portfolio return.\
 \
 Calculate DR\
-$DR_π=√(∫_(-∞)^(T_π)▒〖(T_π-r_π )^2  f(r_pi )  dr_π 〗)$\
+$DR = \sqrt{\int_{-\infty}^{T_\pi} (T_\pi-r_\pi)^2 f(r_\pi) dr_\pi}$\
 \
 \
 Information ratio\
@@ -538,7 +538,7 @@ Choice of type, self-financing or contribution financing
 Stochastic portfolio theory
 Trading algorithms
 Statistical arbitrage
-Book	Author(s)	Link
+Book	Author(s)
 Mathematics
 Linear and nonlinear programming	Luenberger, Ye	
 		
@@ -551,9 +551,9 @@ Interest rate models - theory and practice	Brigo, Mercurio
 Technical analysis in futures markets	Murphy	
 Numerical methods in Finance and economics 
 		
-Fixed-income securities
+[Fixed-income securities](https://www.wiley.com/en-dk/Fixed-Income+Securities%3A+Valuation%2C+Risk+Management+and+Portfolio+Strategies-p-9780470852774)
 	Martellini, Priaulet, Priaulet	
-The handbook of Fixed income securities
+[The handbook of Fixed income securities](https://www.amazon.com/Handbook-Fixed-Income-Securities-Eighth/dp/0071768467)
 Frank J Fabozzi	
 		
 		
