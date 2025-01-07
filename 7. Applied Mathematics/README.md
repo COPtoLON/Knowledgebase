@@ -384,7 +384,7 @@ An example is return.\
 $R_\pi = \sum_{i=1}^{n} \pi_i \cdot R_i$\
 Where as represented in the framework, π_i represents the I’th portfolio weight and R_i represents the I’th return. In this same way one would get.\
 $\sigma_\pi = \sum_{i=1}^{n} \pi_i \cdot \sigma_i$\
-This calculation will either require you to have another vector σ=(σ_1,σ_2,σ_3,…,σ_n) with standard deviations, or a vector of time series of returns for each n assets in your portfolio. \
+This calculation will either require you to have another vector σ=(σ_1,σ_2,σ_3,…,σ_n) with standard deviations, or a vector of time series of returns for each n assets in your portfolio. 
  
 # Investment performance
 ## Investment management and analysis
@@ -403,28 +403,28 @@ $R_m$ is the return of the market.\
 $\beta_i$ is the beta of the portfolio.\
 Algorithms
 Asset-level equation
-$α=R_i-[R_f+β_i·(R_M-R_f )]$
+$\alpha=R_i-[R_f+\beta_i·(R_M-R_f)]$
 Portfolio-level equation
 Here $R_\pi$ replaces $R_i$ and $\beta_\pi$ replaces $\beta_i$
-$α=R_π-[R_f+β_π·(R_M-R_f )]$
+$\alpha=R_\pi-[R_f+\beta_π·(R_M-R_f )]$
 
-Beta measure
-What is it?
+Beta measure\
+What is it?\
 The portfolio beta, is a measure of the systematic risk or volatility of a portfolio or asset in the portfolio
-Keywords
+Keywords\
 Returns, risk adjusted, portfolio analysis, portfolio measurement, Portfolio beta, investment beta
-Requirements
-$R_i$ is the return of a single asset.
-$R_m$ is the return of the market.
-$\beta_a$ is the beta of the asset.
-Algorithms
-Asset-level equation
-β_a=cov(R_i,R_m )/Var(R_m ) 
-Portfolio-level equation
-β_π=∑_(i=1)^n▒〖π_i·β_i 〗
+Requirements\
+$R_i$ is the return of a single asset.\
+$R_m$ is the return of the market.\
+$\beta_a$ is the beta of the asset.\
+Algorithms\
+Asset-level equation\
+$\beta_a = \frac{cov(R_i,R_m)}{var(R_m)}$ \
+Portfolio-level equation\
+$\beta_\pi = \sum_{i=1}^{n} \pi_i \cdot \beta_i$\
 
-Diversification measure 
-What is it?
+Diversification measure \
+What is it?\
 The diversification measure is a measure of how much each of your assets correlate and as a singular measure, to describe if they are too correlated, meaning low diversification.\
 Keywords\
 Portfolio analysis, Portfolio measurement, diversification, risk
@@ -433,7 +433,7 @@ $π$ is the vector of portfolio weights for the portfolio given.\
 $σ$ is the vector of standard deviations for returns on each asset in the portfolio π\
 $Σ$ is the asset covariance matrix for the portfolio \
 Algorithms\
-$D_π=(σ^T·π)/√(π^T·Σ·π)$
+$D_\pi = \frac{ \mathbf{\sigma^T}\cdot \pi}{\sqrt{\mathbf{\pi^T \cdot \Sigma \cdot \pi}}} $
 Sharpe ratio\
 What is it?\
 The sharpe ratio is a measure for the risk adjusted relative return.\
