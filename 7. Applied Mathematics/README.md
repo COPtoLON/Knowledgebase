@@ -1,47 +1,47 @@
-Mathematics, statistics and probability
-
-Various methods
-[Time series analysis](https://en.wikipedia.org/wiki/Time_series)
-[Monte carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method)
-Monte carlo simulations
-Monte carlo methods
-Least-squares Monte carlo methods
-[Predictive modelling](https://en.wikipedia.org/wiki/Predictive_modelling)
-Extreme value theory
-Extreme value risk theory
-
-Utility theory
-
-Statistics
-Median
-Maximum
-Minimum
-Quantiles
-Mean
-Arithmetic mean
-Geometric mean
-Cubic Mean
-Generalized/power mean
-Harmonic mean
-Mode
-Average absolute deviation
-Coefficient of variation
-Interquartile range
-Variance
-Standard deviation
-Moments
-L-moments
-Skewness
-Kurtosis
-Statistical mechanics
-Statistical arbitrage
-Statistics for stochastic processes
-Regression analysis
-Multivariate analysis
-Stochastic analysis
-
-
-Probability
+Mathematics, statistics and probability\
+\
+Various methods\
+[Time series analysis](https://en.wikipedia.org/wiki/Time_series)\
+[Monte carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method)\
+Monte carlo simulations\
+Monte carlo methods\
+Least-squares Monte carlo methods\
+[Predictive modelling](https://en.wikipedia.org/wiki/Predictive_modelling)\
+Extreme value theory\
+Extreme value risk theory\
+\
+Utility theory\
+\
+Statistics\
+Median\
+Maximum\
+Minimum\
+Quantiles\
+Mean\
+Arithmetic mean\
+Geometric mean\
+Cubic Mean\
+Generalized/power mean\
+Harmonic mean\
+Mode\
+Average absolute deviation\
+Coefficient of variation\
+Interquartile range\
+Variance\
+Standard deviation\
+Moments\
+L-moments\
+Skewness\
+Kurtosis\
+Statistical mechanics\
+Statistical arbitrage\
+Statistics for stochastic processes\
+Regression analysis\
+Multivariate analysis\
+Stochastic analysis\
+\
+\
+Probability\
 Random variables
 Convergence concepts for RV
 Independence
