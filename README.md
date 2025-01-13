@@ -196,6 +196,27 @@ https://macrosynergy.com/
 
 
 
+https://theartofhpc.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Equities:
 
 Use linear regression models to predict stock price movements.
