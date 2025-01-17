@@ -152,7 +152,7 @@ https://github.com/georgezouq/awesome-ai-in-finance
 
 https://www.quora.com/What-is-the-method-used-by-quantitative-hedge-funds-such-as-Renaissance-Technologies-to-generate-profits
 https://www.linkedin.com/feed/update/urn:li:activity:7181549889821016066/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7181549889821016066%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
-
+https://colab.research.google.com/github/ksergiou/Time-Series-Forecasting/blob/main/Time_Series_Forecasting.ipynb
 https://quantecon.org/
 
 https://github.com/ryanrussell/Lean/tree/master
