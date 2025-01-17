@@ -193,7 +193,32 @@ https://github.com/Finance-Hub/FinanceHub
 https://www.deloitte.com/lu/en/services/risk-advisory/services/deloitte-quantitative-finance-master-classes.html
 https://macrosynergy.com/
 
+https://github.com/xhshenxin/Micro_Price
+https://github.com/xhshenxin/lead-lag
+https://github.com/asavinov/awesome-systematic-trading
+https://github.com/asavinov/awesome-quant
+https://github.com/asavinov/awesome-deep-trading#high-frequency
+https://github.com/asavinov/awesome-deep-trading#cryptocurrency
+https://github.com/asavinov/awesome-deep-trading#guides
+https://github.com/asavinov/awesome-deep-trading#cryptocurrency-1
+https://github.com/asavinov/awesome-deep-trading#presentations
+https://github.com/asavinov/awesome-machine-learning#python-neural-networks
+https://github.com/asavinov/awesome-machine-learning#python-reinforcement-learning
+https://github.com/asavinov/awesome-machine-learning#python-general-purpose
 
+
+https://analyticsindiamag.com/comparing-arima-model-and-lstm-rnn-model-in-time-series-forecasting/
+https://link.springer.com/chapter/10.1007/978-3-319-42297-8_40
+https://arxiv.org/pdf/1707.07338
+https://arxiv.org/pdf/1802.03042
+https://www.mdpi.com/2076-3417/10/4/1506
+
+https://github.com/amueller/introduction_to_ml_with_python
+https://github.com/justmarkham/scikit-learn-videos/blob/master/09_classification_metrics.ipynb
+https://github.com/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb
+https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb
+https://github.com/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb
+https://github.com/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb
 
 
 https://theartofhpc.com
