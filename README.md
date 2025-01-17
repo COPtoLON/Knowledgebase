@@ -205,9 +205,46 @@ https://theartofhpc.com
 
 
 
+Portfolio Optimization: Applied optimization techniques to create an efficient frontier for a given set of assets, enabling better investment decisions.
+
+Performance metrics: Include metrics that demonstrate the success of your trading strategies, such as returns, Sharpe ratio, or maximum drawdown.
+
+Market analysis: Present examples of your market analysis, including fundamental or technical analysis, and how it informed your trading decisions.
+
+Financial models: Develop financial models for pricing options, calculating risk, or forecasting market variables. Examples include the Black-Scholes model for option pricing, GARCH models for volatility forecasting, or Monte Carlo simulations for risk analysis.
+
+Portfolio optimization: Create projects that demonstrate your ability to optimize portfolios using techniques like Modern Portfolio Theory (MPT), risk-adjusted performance metrics (e.g., Sharpe ratio), or machine learning algorithms.
 
 
 
+Time-series analysis: Showcase your skills in working with time-series data by developing projects that involve techniques like autoregressive integrated moving average (ARIMA), vector autoregression (VAR), or state-space models.
+
+Machine learning and AI: Implement machine learning algorithms, such as neural networks, decision trees, or clustering algorithms, to predict financial markets, identify trends, or classify market conditions.
+
+Data visualization and reporting: Create interactive dashboards or visualizations to display financial data, risk metrics, or trading strategy performance using tools like Tableau, Power BI, or custom-built solutions using Python or JavaScript libraries.
+
+Backtesting and performance evaluation: Implement backtesting frameworks for evaluating the performance of trading strategies, including the calculation of various performance metrics and risk-adjusted returns.
+
+Data cleaning and preprocessing: Show your skills in handling missing data, outliers, and transforming raw data into a format suitable for analysis.
+
+Exploratory data analysis: Include projects that involve visualizing and summarizing data to identify patterns, trends, and relationships between variables.
+
+Statistical analysis: Demonstrate your ability to apply statistical techniques, such as hypothesis testing and regression analysis, to draw conclusions from data.
+
+Machine learning: Showcase your experience with different machine learning algorithms, such as linear regression, decision trees, or clustering algorithms, to solve prediction or classification problems.
+
+Data visualization: Include examples of interactive dashboards or visualizations created with tools like Tableau, Power BI, or custom-built solutions using Python or JavaScript libraries.
+
+High-performance computing: Demonstrate your ability to develop and optimize code for high-performance computing environments, such as parallel processing or GPU-based computing, to handle large datasets and complex financial models.
+API and data integration: Show your proficiency in working with financial APIs, such as market data providers (e.g., Quandl, Bloomberg, or Alpha Vantage) or trading platforms (e.g., Interactive Brokers or Alpaca).
+
+When showcasing these projects, be sure to highlight the technical skills used, such as programming languages (e.g., Python, C++, or R), libraries (e.g., pandas, NumPy, or TensorFlow), and any relevant development tools or platforms. Additionally, provide clear explanations of the project's
+objectives, methodology, and results to demonstrate your understanding of the underlying financial concepts and quantitative techniques.
+
+
+Credit Risk analysis - Credit Risk simulation engine, IRB process, AIRB process\
+Insurance - Premium calculation, Claim size simulation engine, Capital reserve calciluation, Ruin process simulation engine, Reinsurance treaties\
+Portfolio management - ...
 
 
 
