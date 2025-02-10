@@ -72,6 +72,17 @@
 [XTX markets](https://www.xtxmarkets.com/#careers)\
 [G-research London](https://www.gresearch.com/vacancies/?specialism=&location=london)\
 [Millenium London](https://mlp.eightfold.ai/careers?location=London%2C%20England%2C%20United%20Kingdom&pid=755939959782&domain=mlp.com&sort_by=relevance&triggerGoButton=false)\
+[Optiver]()\
+[Maven]()\
+[Mako]()\
+[Old mission]()\
+[State Street]()\
+[Quadrature]()\
+[Marshall Wace]()\
+[Castleton Commodities]()\
+[Bluefin]()\
+[BAM](https://bambusdev.my.site.com/s/)\
+[SIG](https://careers.sig.com/search-results?qcity=London&qcountry=United%20Kingdom)\
 [Tower Research](https://tower-research.com/open-positions/)\
 [DRW London](https://www.drw.com/work-at-drw/listings?filterType=city&value=London)\
 [Bloomberg](https://bloomberg.avature.net/careers)\
@@ -80,7 +91,15 @@
 [Aspect Capital](https://aspectcapital-94a5ce.careers.hibob.com/jobs) \
 [GSA Capital](https://www.gsacapital.com/join-us#jobs)\
 [Akuna Capital](https://akunacapital.com/careers)\
-[Startups London](https://london.startups-list.com/startups/trading?utm_source=chatgpt.com)
+[Startups London](https://london.startups-list.com/startups/trading?utm_source=chatgpt.com)\
+\
+[Five rings](https://fiverings.com/careers/)\
+[Aquatic london](https://job-boards.greenhouse.io/aquaticcapitalmanagement?offices%5B%5D=4056395002)\
+[CFM](https://jobs.cfm.com/search/?createNewAlert=false&q=&locationsearch=London&optionsFacetsDD_shifttype=&optionsFacetsDD_city=&optionsFacetsDD_department=)\
+[Capula](https://www.capulaglobal.com/working-at-capula/careers/#job-openings)\
+[Capstone](https://www.capstoneco.com/careers/)\
+\
+[More companies here](https://gist.github.com/chrisaycock/8b7a37b1f97549517cb7789be5b06266)
 
 
 
