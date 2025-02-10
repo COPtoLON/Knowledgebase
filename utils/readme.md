@@ -1,7 +1,23 @@
 # Recruitment companies
 ### General 
-Harnham
-randstad
+[Michael Page](https://www.michaelpage.com/)\
+[randstad](https://www.randstad.com/)\
+[Hays](https://www.haysplc.com/)\
+[Robert Walters](https://www.robertwalters.com/)\
+[Kelly Services](https://www.kellyservices.com/)\
+[Robert Half](https://www.roberthalf.com/us/en)\
+[Harnham](https://www.harnham.com/)\
+[Oliver Bernard](https://oliverbernard.com/jobs)\
+[Harrington Star](https://www.harringtonstarr.com/)\
+[DATA IDOLS](https://www.dataidols.com/)\
+[Morgan Mckinley](https://www.morganmckinley.com/)\
+[Goodman Masson](https://jobs.goodmanmasson.com/)
+[Spectrum IT](https://www.spectrumit.co.uk/job-search/?)\
+[Langley James](https://www.langleyjames.com/)\
+[Crimson](https://www.crimson.co.uk/)\
+[Ashdown Group - not a lot of jobs](https://www.ashdowngroup.com/)\
+[DevsData - bullshit job offers](https://devsdata.com/careers/)\
+[Just IT](https://www.justit.co.uk/)
 
 ### Quant
 [Oxford Knight](https://oxfordknight.co.uk/)\
@@ -34,38 +50,14 @@ randstad
 [reed](https://www.reed.co.uk/)\
 [joblist](https://www.joblist.com/)\
 [CWjobs](https://www.cwjobs.co.uk/)\
-SimplyHired UK\
+[SimplyHired UK](https://www.simplyhired.co.uk/)
 
 ### Quant Specific
 [efinancialcareers](https://www.efinancialcareers.com/)\
-
-
-### DATA Specific
-[Michael Page](https://www.michaelpage.com/)\
-[randstad](https://www.randstad.com/)\
-[Hays?](https://www.haysplc.com/)\
-[Robert Walters](https://www.robertwalters.com/)\
-[Kelly Services](https://www.kellyservices.com/)\
-[Robert Half](https://www.roberthalf.com/us/en)\
-[Harnham](https://www.harnham.com/)\
-[Oliver Bernard](https://oliverbernard.com/jobs)\
-[Harrington Star](https://www.harringtonstarr.com/)\
-[DATA IDOLS](https://www.dataidols.com/)\
-[Morgan Mckinley](https://www.morganmckinley.com/)\
-[Goodman Masson](https://jobs.goodmanmasson.com/)
-
-### IT Specific
-[Spectrum IT](https://www.spectrumit.co.uk/job-search/?)\
-[Langley James](https://www.langleyjames.com/)\
-[Crimson](https://www.crimson.co.uk/)\
-[Ashdown Group - not a lot of jobs](https://www.ashdowngroup.com/)\
-[DevsData - bullshit job offers](https://devsdata.com/careers/)\
-[Just IT](https://www.justit.co.uk/)
-
-
+[Willmott's jobboard London](https://wilmott.com/jobs/?show_results=1&query=&location=London)\
+[Quantnet job forum](https://quantnet.com/forum/quant-jobs.39/)
 
 # Companies
-
 [Renaissance Technologies](https://www.rentec.com/Careers.action?jobs=true)\
 [Citadel Securities](https://www.citadelsecurities.com/careers/open-opportunities/positions-for-professionals/)
 [Jane Street London](https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=london)\
