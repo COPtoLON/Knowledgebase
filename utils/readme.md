@@ -59,7 +59,7 @@
 
 # Companies
 [Renaissance Technologies](https://www.rentec.com/Careers.action?jobs=true)\
-[Citadel Securities](https://www.citadelsecurities.com/careers/open-opportunities/positions-for-professionals/)
+[Citadel Securities](https://www.citadelsecurities.com/careers/open-opportunities/positions-for-professionals/)\
 [Jane Street London](https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=london)\
 [TwoSigma London](https://careers.twosigma.com/careers/OpenRoles/?5079=%5B16718359%5D&5079_format=3144&listFilterMode=1&jobRecordsPerPage=10&)\
 [Jump Trading London](https://www.jumptrading.com/careers/?locations=London)\
