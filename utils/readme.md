@@ -11,7 +11,7 @@
 [Harrington Star](https://www.harringtonstarr.com/)\
 [DATA IDOLS](https://www.dataidols.com/)\
 [Morgan Mckinley](https://www.morganmckinley.com/)\
-[Goodman Masson](https://jobs.goodmanmasson.com/)
+[Goodman Masson](https://jobs.goodmanmasson.com/)\
 [Spectrum IT](https://www.spectrumit.co.uk/job-search/?)\
 [Langley James](https://www.langleyjames.com/)\
 [Crimson](https://www.crimson.co.uk/)\
