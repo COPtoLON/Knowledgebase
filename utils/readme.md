@@ -1,7 +1,7 @@
 # Recruitment companies
 ### General 
 [Michael Page](https://www.michaelpage.com/)\
-[randstad](https://www.randstad.com/)\
+[randstad](https://www.randstad.com/) - CV uploaded\
 [Hays](https://www.haysplc.com/)\
 [Robert Walters](https://www.robertwalters.com/)\
 [Kelly Services](https://www.kellyservices.com/)\
@@ -21,7 +21,7 @@
 
 ### Quant
 [Oxford Knight](https://oxfordknight.co.uk/)\
-[Radley James](https://radleyjames.com/)\
+[Radley James](https://radleyjames.com/) - CV uploaded\
 [Mondrian Alpha](https://www.mondrian-alpha.com/)\
 [Hunter Bond](https://www.hunterbond.com/)\
 [Hunters of london](https://hunterslondon.com/)\
