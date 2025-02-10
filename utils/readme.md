@@ -8,9 +8,9 @@
 [Robert Half](https://www.roberthalf.com/us/en)\
 [Harnham](https://www.harnham.com/)\
 [Oliver Bernard](https://oliverbernard.com/jobs)\
-[Harrington Star](https://www.harringtonstarr.com/)\
+[Harrington Star](https://www.harringtonstarr.com/) - CV uploaded\
 [DATA IDOLS](https://www.dataidols.com/)\
-[Morgan Mckinley](https://www.morganmckinley.com/)\
+[Morgan Mckinley](https://www.morganmckinley.com/) - CV uploaded\
 [Goodman Masson](https://jobs.goodmanmasson.com/)\
 [Spectrum IT](https://www.spectrumit.co.uk/job-search/?)\
 [Langley James](https://www.langleyjames.com/)\
@@ -20,10 +20,10 @@
 [Just IT](https://www.justit.co.uk/)
 
 ### Quant
-[Oxford Knight](https://oxfordknight.co.uk/)\
+[Oxford Knight](https://oxfordknight.co.uk/) - Only positions\
 [Radley James](https://radleyjames.com/) - CV uploaded\
 [Mondrian Alpha](https://www.mondrian-alpha.com/)\
-[Hunter Bond](https://www.hunterbond.com/)\
+[Hunter Bond](https://www.hunterbond.com/) - CV uploaded\
 [Hunters of london](https://hunterslondon.com/)\
 [selby jennings](https://www.selbyjennings.com/)\
 [Durlston Partners](https://durlstonpartners.com/)\
