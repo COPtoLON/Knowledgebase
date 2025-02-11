@@ -24,15 +24,15 @@
 [Radley James](https://radleyjames.com/) - CV uploaded\
 [Mondrian Alpha](https://www.mondrian-alpha.com/)\
 [Hunter Bond](https://www.hunterbond.com/) - CV uploaded\
-[Hunters of london](https://hunterslondon.com/)\
-[selby jennings](https://www.selbyjennings.com/)\
-[Durlston Partners](https://durlstonpartners.com/)\
-[AAA global](https://aaaglobal.co.uk/)\
-[Fourier london](https://fourier.london/)\
+[Hunters of london](https://hunterslondon.com/) - CV uploaded\
+[selby jennings](https://www.selbyjennings.com/) - CV uploaded\
+[Durlston Partners](https://durlstonpartners.com/) - CV uploaded\
+[AAA global](https://aaaglobal.co.uk/) - CV uploaded\
+[Fourier london](https://fourier.london/) - CV uploaded\
 [Quant Recruitment](https://www.quantrecruitment.co.uk/)\
 [Anson McCade](https://www.ansonmccade.com/work_for_us.php)\
 [Understanding recruitment](https://www.understandingrecruitment.com/)\
-[Stanford Black](https://www.stanfordblack.com/jobs-board)\
+[Stanford Black](https://www.stanfordblack.com/jobs-board) - CV uploaded\
 [Algo capital group????](https://algocapitalgroup.com/)\
 [Saragossa](https://saragossa.co.uk/)
 
