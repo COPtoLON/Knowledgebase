@@ -9,12 +9,12 @@
 [Harnham](https://www.harnham.com/) - CV uploaded\
 [Oliver Bernard](https://oliverbernard.com/jobs) - CV uploaded\
 [Harrington Star](https://www.harringtonstarr.com/) - CV uploaded\
-[DATA IDOLS](https://www.dataidols.com/)\
+[DATA IDOLS](https://www.dataidols.com/) - Unable\
 [Morgan Mckinley](https://www.morganmckinley.com/) - CV uploaded\
-[Goodman Masson](https://jobs.goodmanmasson.com/)\
-[Spectrum IT](https://www.spectrumit.co.uk/job-search/?)\
-[Langley James](https://www.langleyjames.com/)\
-[Crimson](https://www.crimson.co.uk/)\
+[Goodman Masson](https://jobs.goodmanmasson.com/) - Unable\
+[Spectrum IT](https://www.spectrumit.co.uk/job-search/?) - CV uploaded\
+[Langley James](https://www.langleyjames.com/) - Unable\
+[Crimson](https://www.crimson.co.uk/) - CV uploaded\
 [Ashdown Group - not a lot of jobs](https://www.ashdowngroup.com/)\
 [DevsData - bullshit job offers](https://devsdata.com/careers/)\
 [Just IT](https://www.justit.co.uk/)
