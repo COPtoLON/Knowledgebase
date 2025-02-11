@@ -3,11 +3,11 @@
 [Michael Page](https://www.michaelpage.com/) - tried to recover account, to no avail\
 [randstad](https://www.randstad.com/) - CV uploaded\
 [Hays](https://www.haysplc.com/) - CV uploaded\
-[Robert Walters](https://www.robertwalters.com/)\
-[Kelly Services](https://www.kellyservices.com/)\
-[Robert Half](https://www.roberthalf.com/us/en)\
+[Robert Walters](https://www.robertwalters.com/) - CV uploaded\
+[Kelly Services](https://www.kellyservices.com/) - Unable\
+[Robert Half](https://www.roberthalf.com/us/en) - CV uploaded\
 [Harnham](https://www.harnham.com/)\
-[Oliver Bernard](https://oliverbernard.com/jobs)\
+[Oliver Bernard](https://oliverbernard.com/jobs) - CV uploaded\
 [Harrington Star](https://www.harringtonstarr.com/) - CV uploaded\
 [DATA IDOLS](https://www.dataidols.com/)\
 [Morgan Mckinley](https://www.morganmckinley.com/) - CV uploaded\
