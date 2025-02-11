@@ -5,8 +5,8 @@
 [Hays](https://www.haysplc.com/) - CV uploaded\
 [Robert Walters](https://www.robertwalters.com/) - CV uploaded\
 [Kelly Services](https://www.kellyservices.com/) - Unable\
-[Robert Half](https://www.roberthalf.com/us/en) - CV uploaded\
-[Harnham](https://www.harnham.com/)\
+[Robert Half](https://www.roberthalf.com/us/en) - Unable\
+[Harnham](https://www.harnham.com/) - CV uploaded\
 [Oliver Bernard](https://oliverbernard.com/jobs) - CV uploaded\
 [Harrington Star](https://www.harringtonstarr.com/) - CV uploaded\
 [DATA IDOLS](https://www.dataidols.com/)\
