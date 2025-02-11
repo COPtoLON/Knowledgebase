@@ -1,8 +1,8 @@
 # Recruitment companies
 ### General 
-[Michael Page](https://www.michaelpage.com/)\
+[Michael Page](https://www.michaelpage.com/) - tried to recover account, to no avail\
 [randstad](https://www.randstad.com/) - CV uploaded\
-[Hays](https://www.haysplc.com/)\
+[Hays](https://www.haysplc.com/) - CV uploaded\
 [Robert Walters](https://www.robertwalters.com/)\
 [Kelly Services](https://www.kellyservices.com/)\
 [Robert Half](https://www.roberthalf.com/us/en)\
