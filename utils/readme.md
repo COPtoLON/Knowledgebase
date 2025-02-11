@@ -15,9 +15,9 @@
 [Spectrum IT](https://www.spectrumit.co.uk/job-search/?) - CV uploaded\
 [Langley James](https://www.langleyjames.com/) - Unable\
 [Crimson](https://www.crimson.co.uk/) - CV uploaded\
-[Ashdown Group - not a lot of jobs](https://www.ashdowngroup.com/)\
-[DevsData - bullshit job offers](https://devsdata.com/careers/)\
-[Just IT](https://www.justit.co.uk/)
+[Ashdown Group - not a lot of jobs](https://www.ashdowngroup.com/) - CV uploaded\
+[DevsData - bullshit job offers](https://devsdata.com/careers/) - CV uploaded\
+[Just IT](https://www.justit.co.uk/) - Unable
 
 ### Quant
 [Oxford Knight](https://oxfordknight.co.uk/) - Only positions\
