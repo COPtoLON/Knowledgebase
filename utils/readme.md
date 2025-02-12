@@ -99,10 +99,12 @@
 [Capula](https://www.capulaglobal.com/working-at-capula/careers/#job-openings)\
 [Capstone](https://www.capstoneco.com/careers/)\
 \
-[More companies here](https://gist.github.com/chrisaycock/8b7a37b1f97549517cb7789be5b06266)
+[More companies here](https://gist.github.com/chrisaycock/8b7a37b1f97549517cb7789be5b06266)\
 
 
 
+
+G-research, Hunter Bond, anson mccade, point72, millenium management, crypto.com
 
 
 
