@@ -104,7 +104,7 @@
 
 
 
-Hunter Bond, anson mccade, crypto.com
+crypto.com, QRT, Macquire
 
 
 
