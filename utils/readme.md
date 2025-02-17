@@ -104,7 +104,7 @@
 
 
 
-G-research, Hunter Bond, anson mccade, point72, millenium management, crypto.com
+Hunter Bond, anson mccade, crypto.com
 
 
 
