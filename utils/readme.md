@@ -80,6 +80,7 @@
 [Quadrature]()\
 [Marshall Wace]()\
 [Castleton Commodities]()\
+[Nomura](https://www.nomura.com/europe/careers/)
 [Bluefin]()\
 [BAM](https://bambusdev.my.site.com/s/)\
 [SIG](https://careers.sig.com/search-results?qcity=London&qcountry=United%20Kingdom)\
