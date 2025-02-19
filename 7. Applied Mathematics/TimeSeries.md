@@ -51,9 +51,20 @@ With python - statsmodels.org hosts an AR model.
 
 MA(q) - The moving-average model of the q'th order:\
 
-$$X_t = \mu + \epsilon_t (\sum_{i=1}^q \theta_i \epsilon_{t-i})$$
+$$X_t = \mu + \epsilon_t + (\sum_{i=1}^q \theta_i \epsilon_{t-i})$$
 
-Where $\theta_i$ are the parameters of the model and $\mu$ is the expectation of $X_t$, and $\epsilon_i$ is white noise, simply normal random variable.
+Where $\theta_i$ are the parameters of the model and $\mu$ is the expectation of $X_t$, and $\epsilon_i$ is white noise, simply normal random variable.\
+Which can also be written as:
+
+$$X_t = \mu + (\sum_{i=0}^q \theta_i B^i \epsilon_{t})$$
+
+Where $B^i$ is the backshift operator
+
+#### Fitting
+Because the lagged error terms are not observable, iterative non-linear fitting procedures are needed instead of linear least squares.\
+The autocorrelation function of an MA(q) process is zero at lag q+1 and greater. Therefore we determine the maximum lag for the estimation by examining sample autocorrelation function.
+
+Sometimes the ACF and PACF will suggest that an MA model would be a better model choice and sometimes both AR and MA terms should be used in the same model. Box-jenkins method.
 
 ### Autoregressive moving average model (ARMA)
 
