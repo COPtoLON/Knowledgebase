@@ -27,6 +27,7 @@ The autocorrelation function of an AR(p) process is a sum of decaying exponentia
 
 #### Calculating of the AR Parameters
 To estimate the AR parameters, one has to use the Yule-Walker Equations.
+
 $$y_m = \sum_{k=1}^p \alpha_k y_{m-k} + \sigma_{\epsilon}^2 \delta_{m,0}$$
 
 With R - the stats package has the *ar* function and the *sarima* function\
