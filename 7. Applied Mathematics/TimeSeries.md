@@ -1,5 +1,4 @@
-### Autoregressive model (AR)
-https://en.wikipedia.org/wiki/Autoregressive_model
+### Autoregressive model (AR) [link](https://en.wikipedia.org/wiki/Autoregressive_model)
 
 AR(p) - the autoregressive model of the p'th order:
 
