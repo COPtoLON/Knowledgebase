@@ -12,13 +12,24 @@ Where the addition $B^i$ is the backshift operator.
 - For the model to be stationary, the roots of its characteristic polynomial must lie outside the unit circle.
 - The augmented Dickey-Fuller test asses the stability of IMF and trend components.
 
-**Characteristic polynomial**
-The autocorrelation function of an AR(p) process is:
-$$\rho(\tau) = \sum_{k=1}^p a_k y_k^{-\mid \tau \mid}$$
-Where $y_k$ are the roots of the polynomial:
-$$\phi(B) = 1 - \sum_{k=1}^p \alpha_k B^k$$
+**Characteristic polynomial**\
+The autocorrelation function of an AR(p) process is:\
+$$\rho(\tau) = \sum_{k=1}^p a_k y_k^{-\mid \tau \mid}$$\
+Where $y_k$ are the roots of the polynomial:\
+$$\phi(B) = 1 - \sum_{k=1}^p \alpha_k B^k$$\
+Where B is the backshift operator, $\phi(*)$ is the function defining the autoregression and where $\alpha_k$ are the coefficients in the autoregression. The formula is valid only if all the roots have multiplicity 1.\
 
-With R - the stats package has the *ar* function and the *sarima* function
+The autocorrelation function of an AR(p) process is a sum of decaying exponentials.
+- Each real root contributes a component to the autocorrelation function that decays exponentially
+- Similarly, each pair of complex conjugate roots contributes an exponentially damped oscillation.
+
+
+
+#### Calculating of the AR Parameters
+To estimate the AR parameters, one has to use the Yule-Walker Equations.
+$$y_m = \sum_{k=1}^p \alpha_k y_{m-k} + \sigma_{\epsilon}^2 \delta_{m,0}$$
+
+With R - the stats package has the *ar* function and the *sarima* function\
 With python - statsmodels.org hosts an AR model.
 
 ### Moving average model (MA)
