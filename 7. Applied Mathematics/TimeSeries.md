@@ -1,17 +1,17 @@
 ### Autoregressive model (AR)
 https://en.wikipedia.org/wiki/Autoregressive_model
 
-**AR(p) - the autoregressive model of the p'th order:**
-$$X_t = (\sum_{i=1}^p \alpha_i X_{t-i}) + \epsilon_t$$
-Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise, simply a normal random variable.
-
+AR(p) - the autoregressive model of the p'th order:\
+$$X_t = (\sum_{i=1}^p \alpha_i X_{t-i}) + \epsilon_t$$\
+Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise, simply a normal random variable.\
+\
 - For the model to be stationary, the roots of its characteristic polynomial must lie outside the unit circle.
 - The augmented Dickey-Fuller test asses the stability of IMF and trend components.
 
 ### Moving average model (MA)
 
-**MA(q) - The moving-average model of the q'th order:**
-$$X_t = \mu + \epsilon_t (\sum_{i=1}^q \theta_i \epsilon_{t-i})$$
+MA(q) - The moving-average model of the q'th order:\
+$$X_t = \mu + \epsilon_t (\sum_{i=1}^q \theta_i \epsilon_{t-i})$$\
 Where $\theta_i$ are the parameters of the model and $\mu$ is the expectation of $X_t$, and $\epsilon_i$ is white noise, simply normal random variable.
 
 ### Autoregressive moving average model (ARMA)
