@@ -34,24 +34,9 @@ Where m= 0 ... p, yielding p+1 equations. Here $y_m$ is the autocovariance funct
 
 Because the last part of an individual equation is non-zero only if m=0, the set of equations can be solved by representing the equations for m>0 in matrix form, thus getting the equation
 
-$$\begin{bmatrix} y_1\\\ y_2 \\\ y_3 \\\ \vdots  \\\ y_p \\\ \end{bmatrix}$$
-
-$$= \begin{bmatrix}
-y_0 &  y_{-1} & y_{-2} & y_{-3} & \cdots  \\
-y_{1} & y_{0} & y_{-1} & y_{-2} & \cdots\ \\
-y_{2} & y_{1} & y_{0} & y_{-1} & \cdots\ \\
-y_{3} & y_{2} & y_{1} & y_{0} & \cdots\ \\
-\vdots  & \vdots  & \vdots  &  \vdots & \ddots \ \\
-y_{p-1} & y_{p-2} & y_{p-3} & y_{p-4} & \cdots\ \\
-\end{bmatrix} 
-\begin{bmatrix}
-\alpha_1  \\
-\alpha_2 \\
-\alpha_3 \\
-\vdots \\
-\alpha_p \\
-\end{bmatrix}
-$$
+$$\begin{bmatrix} y_1\\\ y_2 \\\ y_3 \\\ \vdots  \\\ y_p \\\ \end{bmatrix} = \begin{bmatrix} y_0 &  y_{-1} & y_{-2} & y_{-3} & \cdots  \\\ y_{1} & y_{0} & y_{-1} & y_{-2} & \cdots\ \\\
+y_{2} & y_{1} & y_{0} & y_{-1} & \cdots\ \\\ y_{3} & y_{2} & y_{1} & y_{0} & \cdots\ \\\ \vdots  & \vdots  & \vdots  &  \vdots & \ddots \ \\\ y_{p-1} & y_{p-2} & y_{p-3} & y_{p-4} & \cdots\ \\\ \end{bmatrix} 
+\begin{bmatrix} \alpha_1  \\\ \alpha_2 \\\ \alpha_3 \\\ \vdots \\\ \alpha_p \\\ \end{bmatrix} $$
 
 With R - the stats package has the *ar* function and the *sarima* function\
 With python - statsmodels.org hosts an AR model.
