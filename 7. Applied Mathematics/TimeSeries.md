@@ -1,15 +1,6 @@
 ### Autoregressive model (AR)
 https://en.wikipedia.org/wiki/Autoregressive_model
 
-### Moving average model (MA)
-
-### Autoregressive moving average model (ARMA)
-
-
-ARMA, autoregressive-moving-average(ARMA) models, are a way to describe weakly stationary stochastic processes. A tool for understanding a series and predicting future values.
-
-Its components are:
-
 **AR(p) - the autoregressive model of the p'th order:**
 $$X_t = (\sum_{i=1}^p \alpha_i X_{t-i}) + \epsilon_t$$
 Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise, simply a normal random variable.
@@ -17,13 +8,19 @@ Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise
 - For the model to be stationary, the roots of its characteristic polynomial must lie outside the unit circle.
 - The augmented Dickey-Fuller test asses the stability of IMF and trend components.
 
+### Moving average model (MA)
+
 **MA(q) - The moving-average model of the q'th order:**
 $$X_t = \mu + \epsilon_t (\sum_{i=1}^q \theta_i \epsilon_{t-i})$$
 Where $\theta_i$ are the parameters of the model and $\mu$ is the expectation of $X_t$, and $\epsilon_i$ is white noise, simply normal random variable.
 
+### Autoregressive moving average model (ARMA)
+
+ARMA, autoregressive-moving-average(ARMA) models, are a way to describe weakly stationary stochastic processes. A tool for understanding a series and predicting future values.
+Its components are the Autoregressive(AR) model and the moving average(MA) model
+
 **ARMA(p,q), the model with p autoregressive terms and q moving-average terms.**
 $$X_t = \epsilon_t + \sum_{i=1}^p \alpha_i X_{t-i} + \sum_{i=1}^q \theta_i \epsilon_{t-i}$$
-
 
 Which also looks like this.
 $$ (1-\sum_{i=1}^p \alpha_i L^i ) X_i = (1+\sum_{i=1}^q \theta_i L^i ) \epsilon_t$$
@@ -35,7 +32,7 @@ Where $\sigma^2$ is the variance of the white noise
 $\theta$ is the characteristic polynomial of the moving average part
 $\phi$ is the characteristic polynomial of the autoregressive part
 
-## Generalizations
+#### Generalizations
 
 One can add nonlinearity to either the autoregressive, moving average or entire process. 
 
@@ -53,9 +50,6 @@ We therefore rewrite $p'=p-d$ and have the generalization:
 $$(1-\sum_{i=1}^{p'} \chi_i L^i)(1-L)^d X_t = \delta + (1+\sum_{i=1}^q \theta_i L^i ) \epsilon_t$$
 Where drift $\frac{\delta}{1-\sum \alpha_i}$
 
-
-
-
 ARCH, autoregressive conditional heteroskedasticity models time series with changes in variance over time.
 
 SARIMA, seasonal ARIMA models periodic variation.
@@ -67,12 +61,6 @@ MAR, multiscale AR is indexed by the nodes of a tree instead of integers.
 ARMAX, autoregressive moving average model with exogenous inputs, is a model with an ARMA process, but also adding in exogenous inputs from an external time series $d_t$.
 
 $$X_t = \epsilon_t + \sum_{i=1}^p \alpha_i X_{t-i} + \sum_{i=1}^q \theta_i \epsilon_{t-i} +\sum_{i=1}^b \eta_i d_{t-i}$$
-
-
-
-
-
-
 
 
 
