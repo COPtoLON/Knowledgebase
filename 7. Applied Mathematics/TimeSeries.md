@@ -1,8 +1,23 @@
+### Autoregressive model (AR)
+https://en.wikipedia.org/wiki/Autoregressive_model
+
+### Moving average model (MA)
+
+### Autoregressive moving average model (ARMA)
+
+### Autoregressive integrated moving average model (ARIMA)
+
+### Autoregressive conditional heteroskedasticity model (ARCH)
+https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity
 
 
 
 
+### Fourier analysis
 
+
+### Exponential smoothing
+https://en.wikipedia.org/wiki/Exponential_smoothing#Basic_(simple)_exponential_smoothing
 
 ### Wold's decomposition/representation theorem
 Every Covariance-stationary time series $Y_t$ can be written as the sum of two time series, one deterministic and one stochastic.
@@ -21,3 +36,43 @@ $$Y_t = \sum_{j=0}^\infty b_j \epsilon_{t-j} +\eta_t$$
 3. Minimum delay?
 4. constant ($b_j$ independent of t)
 5. It is convetional to define $b_0 = 1$
+
+
+
+### Box-jenkins method
+https://en.wikipedia.org/wiki/Box%E2%80%93Jenkins_method
+
+### Augmented Dickey-Fuller test
+https://en.wikipedia.org/wiki/Augmented_Dickey%E2%80%93Fuller_test
+
+### Bayesian Information Criterion
+https://en.wikipedia.org/wiki/Bayesian_information_criterion
+
+### Akaike information Criterion
+https://en.wikipedia.org/wiki/Akaike_information_criterion
+
+
+### Score test
+https://en.wikipedia.org/wiki/Score_test
+
+### Least squares
+https://en.wikipedia.org/wiki/Least_squares
+
+
+
+
+
+
+
+
+
+
+
+### Volatility clustering
+https://en.wikipedia.org/wiki/Volatility_clustering
+
+
+
+
+
+
