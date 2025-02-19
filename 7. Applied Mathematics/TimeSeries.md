@@ -4,7 +4,6 @@ https://en.wikipedia.org/wiki/Autoregressive_model
 AR(p) - the autoregressive model of the p'th order:\
 $$X_t = (\sum_{i=1}^p \alpha_i X_{t-i}) + \epsilon_t$$\
 Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise, simply a normal random variable.\
-\
 - For the model to be stationary, the roots of its characteristic polynomial must lie outside the unit circle.
 - The augmented Dickey-Fuller test asses the stability of IMF and trend components.
 
