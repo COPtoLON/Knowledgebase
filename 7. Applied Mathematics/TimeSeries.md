@@ -1,8 +1,10 @@
 ### Autoregressive model (AR)
 https://en.wikipedia.org/wiki/Autoregressive_model
 
-AR(p) - the autoregressive model of the p'th order:\
-$$X_t = (\sum_{i=1}^p \alpha_i X_{t-i}) + \epsilon_t$$\
+AR(p) - the autoregressive model of the p'th order:
+
+$$X_t = (\sum_{i=1}^p \alpha_i X_{t-i}) + \epsilon_t$$
+
 Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise, simply a normal random variable.\
 - For the model to be stationary, the roots of its characteristic polynomial must lie outside the unit circle.
 - The augmented Dickey-Fuller test asses the stability of IMF and trend components.
@@ -10,7 +12,9 @@ Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise
 ### Moving average model (MA)
 
 MA(q) - The moving-average model of the q'th order:\
-$$X_t = \mu + \epsilon_t (\sum_{i=1}^q \theta_i \epsilon_{t-i})$$\
+
+$$X_t = \mu + \epsilon_t (\sum_{i=1}^q \theta_i \epsilon_{t-i})$$
+
 Where $\theta_i$ are the parameters of the model and $\mu$ is the expectation of $X_t$, and $\epsilon_i$ is white noise, simply normal random variable.
 
 ### Autoregressive moving average model (ARMA)
@@ -19,10 +23,12 @@ ARMA, autoregressive-moving-average(ARMA) models, are a way to describe weakly s
 Its components are the Autoregressive(AR) model and the moving average(MA) model
 
 **ARMA(p,q), the model with p autoregressive terms and q moving-average terms.**
+
 $$X_t = \epsilon_t + \sum_{i=1}^p \alpha_i X_{t-i} + \sum_{i=1}^q \theta_i \epsilon_{t-i}$$
 
 Which also looks like this.
-$$ (1-\sum_{i=1}^p \alpha_i L^i ) X_i = (1+\sum_{i=1}^q \theta_i L^i ) \epsilon_t$$
+
+$$(1-\sum_{i=1}^p \alpha_i L^i ) X_i = (1+\sum_{i=1}^q \theta_i L^i ) \epsilon_t$$
 
 
 The spectral density of an ARMA process is:
