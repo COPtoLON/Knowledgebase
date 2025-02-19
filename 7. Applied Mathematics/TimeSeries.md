@@ -47,7 +47,7 @@ which once solved for the previous cases, becomes an equation to solve $\sigma_{
 With R - the stats package has the *ar* function and the *sarima* function\
 With python - statsmodels.org hosts an AR model.
 
-### Moving average model (MA)
+### Moving average model (MA) - [link](https://en.wikipedia.org/wiki/Moving-average_model)
 
 MA(q) - The moving-average model of the q'th order:\
 
