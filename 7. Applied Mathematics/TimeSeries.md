@@ -5,6 +5,77 @@ https://en.wikipedia.org/wiki/Autoregressive_model
 
 ### Autoregressive moving average model (ARMA)
 
+
+ARMA, autoregressive-moving-average(ARMA) models, are a way to describe weakly stationary stochastic processes. A tool for understanding a series and predicting future values.
+
+Its components are:
+
+**AR(p) - the autoregressive model of the p'th order:**
+$$X_t = (\sum_{i=1}^p \alpha_i X_{t-i}) + \epsilon_t$$
+Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise, simply a normal random variable.
+
+- For the model to be stationary, the roots of its characteristic polynomial must lie outside the unit circle.
+- The augmented Dickey-Fuller test asses the stability of IMF and trend components.
+
+**MA(q) - The moving-average model of the q'th order:**
+$$X_t = \mu + \epsilon_t (\sum_{i=1}^q \theta_i \epsilon_{t-i})$$
+Where $\theta_i$ are the parameters of the model and $\mu$ is the expectation of $X_t$, and $\epsilon_i$ is white noise, simply normal random variable.
+
+**ARMA(p,q), the model with p autoregressive terms and q moving-average terms.**
+$$X_t = \epsilon_t + \sum_{i=1}^p \alpha_i X_{t-i} + \sum_{i=1}^q \theta_i \epsilon_{t-i}$$
+
+
+Which also looks like this.
+$$ (1-\sum_{i=1}^p \alpha_i L^i ) X_i = (1+\sum_{i=1}^q \theta_i L^i ) \epsilon_t$$
+
+
+The spectral density of an ARMA process is:
+$$S(f) = \frac{\sigma^2}{2\pi}  \left | \frac{\theta(e^{-if})} {\phi(e^{-if})}\right | ^2$$
+Where $\sigma^2$ is the variance of the white noise
+$\theta$ is the characteristic polynomial of the moving average part
+$\phi$ is the characteristic polynomial of the autoregressive part
+
+## Generalizations
+
+One can add nonlinearity to either the autoregressive, moving average or entire process. 
+
+One can also build out vector versions
+
+Multivariate time series also exists
+
+**ARIMA, Autoregressive integrated moving average models non-stationary time series**
+
+
+if the polynomial $(1-\sum_{i=1}^p \alpha_i L^i)$ has a unit root (a factor (1-L)) of multiplicity d, then it can be rewritten as:
+ $(1-\sum_{i=1}^p \alpha_i L^i)=(1-\sum_{i=1}^{p-d} \chi_i L^i)(1-L)^d$ 
+We therefore rewrite $p'=p-d$ and have the generalization:
+
+$$(1-\sum_{i=1}^{p'} \chi_i L^i)(1-L)^d X_t = \delta + (1+\sum_{i=1}^q \theta_i L^i ) \epsilon_t$$
+Where drift $\frac{\delta}{1-\sum \alpha_i}$
+
+
+
+
+ARCH, autoregressive conditional heteroskedasticity models time series with changes in variance over time.
+
+SARIMA, seasonal ARIMA models periodic variation.
+
+ARFIMA, autoregressive fractionally integrated moving average, exhibits long memory
+
+MAR, multiscale AR is indexed by the nodes of a tree instead of integers.
+
+ARMAX, autoregressive moving average model with exogenous inputs, is a model with an ARMA process, but also adding in exogenous inputs from an external time series $d_t$.
+
+$$X_t = \epsilon_t + \sum_{i=1}^p \alpha_i X_{t-i} + \sum_{i=1}^q \theta_i \epsilon_{t-i} +\sum_{i=1}^b \eta_i d_{t-i}$$
+
+
+
+
+
+
+
+
+
 ### Autoregressive integrated moving average model (ARIMA)
 
 ### Autoregressive conditional heteroskedasticity model (ARCH)
