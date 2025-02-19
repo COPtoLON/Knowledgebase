@@ -1,12 +1,25 @@
-### Autoregressive model (AR) [link](https://en.wikipedia.org/wiki/Autoregressive_model)
-
+### Autoregressive model (AR) - [link](https://en.wikipedia.org/wiki/Autoregressive_model)
 AR(p) - the autoregressive model of the p'th order:
 
 $$X_t = (\sum_{i=1}^p \alpha_i X_{t-i}) + \epsilon_t$$
 
-Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise, simply a normal random variable.\
+Where $\alpha_i$ are the parameters of the model and $\epsilon_t$ is white noise, simply a normal random variable. The model can also be written as\
+
+$$X_t = (\sum_{i=1}^p \alpha_i B^i X_{t}) + \epsilon_t$$
+
+Where the addition $B^i$ is the backshift operator.
+
 - For the model to be stationary, the roots of its characteristic polynomial must lie outside the unit circle.
 - The augmented Dickey-Fuller test asses the stability of IMF and trend components.
+
+**Characteristic polynomial**
+The autocorrelation function of an AR(p) process is:
+$$\rho(\tau) = \sum_{k=1}^p a_k y_k^{-\mid \tau \mid}$$
+Where $y_k$ are the roots of the polynomial:
+$$\phi(B) = 1 - \sum_{k=1}^p \alpha_k B^k$$
+
+With R - the stats package has the *ar* function and the *sarima* function
+With python - statsmodels.org hosts an AR model.
 
 ### Moving average model (MA)
 
