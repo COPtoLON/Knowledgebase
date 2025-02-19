@@ -38,6 +38,12 @@ $$\begin{bmatrix} y_1\\\ y_2 \\\ y_3 \\\ \vdots  \\\ y_p \\\ \end{bmatrix} = \be
 y_{2} & y_{1} & y_{0} & y_{-1} & \cdots\ \\\ y_{3} & y_{2} & y_{1} & y_{0} & \cdots\ \\\ \vdots  & \vdots  & \vdots  &  \vdots & \ddots \ \\\ y_{p-1} & y_{p-2} & y_{p-3} & y_{p-4} & \cdots\ \\\ \end{bmatrix} 
 \begin{bmatrix} \alpha_1  \\\ \alpha_2 \\\ \alpha_3 \\\ \vdots \\\ \alpha_p \\\ \end{bmatrix} $$
 
+Which can be solved for all $\{ \alpha_m ; m=1,2,....,p \}$ the remaining equation for m=0 is
+
+$$y_0 = \sum_{k=1}^p \alpha_k y_{-k} + \sigma_{\epsilon}^2$$
+
+which once solved for the previous cases, becomes an equation to solve $\sigma_{\epsilon}^2$
+
 With R - the stats package has the *ar* function and the *sarima* function\
 With python - statsmodels.org hosts an AR model.
 
@@ -155,8 +161,8 @@ https://en.wikipedia.org/wiki/Score_test
 https://en.wikipedia.org/wiki/Least_squares
 least squares regression
 
-
-
+### Maximum likelihood estimate
+https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
 
 
 
