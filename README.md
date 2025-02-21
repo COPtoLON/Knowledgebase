@@ -1,3 +1,7 @@
+https://codeinstitute.net/courses/?
+https://www.databricks.com/training/catalog
+https://learn.microsoft.com/en-us/training/browse/?levels=intermediate&resource_type=learning%20path&subjects=artificial-intelligence&roles=data-scientist
+
 1. intro - what is? why is important? 
 2. if you want to donate/contribute
 3. structure
