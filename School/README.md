@@ -29,8 +29,10 @@ No general area, heads of the game\
 [Anton Vorobets - Quant port, Danske Bank](https://www.linkedin.com/in/antonvorobets/)\
 [Filippo Guerrieri - Quant port, Goldman Sachs](https://www.linkedin.com/in/filippo-guerrieri-a23b1410a/)
 
-### Term structures and Interest rates
-[David Skovmand - University of Copenhagen](https://www.linkedin.com/in/david-skovmand-24aa0a/)
+### Term structures, Fixed income and Interest rates
+[Paul McCloud - Research, Nomura](https://www.linkedin.com/in/paul-mccloud-09441339/)
+[David Skovmand - Research, University of Copenhagen](https://www.linkedin.com/in/david-skovmand-24aa0a/)
+[Adil Reghai - Development, various](https://www.linkedin.com/in/adil-reghai-17aabb31/)
 
 
 ## Development
@@ -44,7 +46,8 @@ No general area, heads of the game\
 ### Computational
 [Daniel Duffy](https://www.linkedin.com/in/daniel-j-duffy-phd-a6ab3912/)
 
-### Machine learning
+### Machine learning/AI
 [Valeriy Manokhin](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/)\
 [Jens Lund](https://www.linkedin.com/in/dkjenslund/)
+[Charles Martin](https://www.linkedin.com/in/charlesmartin14/)
 
