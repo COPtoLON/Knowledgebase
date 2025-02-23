@@ -40,7 +40,7 @@ No general area, heads of the game\
 
 ### Term structures, Fixed income and Interest rates
 [Paul McCloud - Research, Nomura](https://www.linkedin.com/in/paul-mccloud-09441339/)\
-[Andrey Chirikhin](https://www.linkedin.com/in/andrey-chirikhin-115b57/)\
+[Andrey Chirikhin - ](https://www.linkedin.com/in/andrey-chirikhin-115b57/)\
 [David Skovmand - Research, University of Copenhagen](https://www.linkedin.com/in/david-skovmand-24aa0a/)\
 [Adil Reghai - Development, various](https://www.linkedin.com/in/adil-reghai-17aabb31/)
 
