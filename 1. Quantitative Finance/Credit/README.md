@@ -58,6 +58,12 @@ What is the credit risk of a perpetual zerobond?
 
 what is the default intensity of the firm with a single fixed maturity zerobond?
 
+credit spreads, important?
+Moving average is much harder to deal with, non serially correlated is the issue
+
+Vector-ARMA is better, because you can model more spreads, 
+determine ARMA n,m visually and multivariate linear regression
+
 
 
 
