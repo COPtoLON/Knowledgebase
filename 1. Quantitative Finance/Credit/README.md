@@ -65,8 +65,8 @@ Vector-ARMA is better, because you can model more spreads,
 determine ARMA n,m visually and multivariate linear regression
 
 
-
-
+On cox process and credit risky bonds, D lando - really good read
+hull-white?
 
 
 
