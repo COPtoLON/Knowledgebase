@@ -25,3 +25,33 @@ lossCumulative loss process
 special and different from CDS's
 
 ## Credit repacks
+
+
+
+
+
+Credit markets are too illiquid
+
+Hold to maturity
+
+Diversification or hedging to manage risk
+
+YTM(yield to maturity) is invented to compare bonds
+
+fixed coupon to floating
+
+credit spread risk
+credit default correlation
+
+Don't correlate yields between bonds
+correlate residuals for bonds with stocks in an AR model
+
+DVA is used in XVA, credit risk haircut
+structural model isn't $Z_t = N- E_t (N-A_t)^+$ with $E_t(N-A_t)^+ = DVA$.
+
+
+
+
+
+
+
