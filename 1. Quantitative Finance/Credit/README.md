@@ -53,6 +53,13 @@ structural model isn't $Z_t = N- E_t (N-A_t)^+$ with $E_t(N-A_t)^+ = DVA$.
 
 
 
+normal questions
+What is the credit risk of a perpetual zerobond?
+
+what is the default intensity of the firm with a single fixed maturity zerobond?
+
+
+
 
 
 
