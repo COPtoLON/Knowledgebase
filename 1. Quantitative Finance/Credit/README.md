@@ -47,6 +47,8 @@ Don't correlate yields between bonds
 correlate residuals for bonds with stocks in an AR model
 
 DVA is used in XVA, credit risk haircut
+
+There my be correct approach based on counterparty company size
 structural model isn't $Z_t = N- E_t (N-A_t)^+$ with $E_t(N-A_t)^+ = DVA$.
 
 
