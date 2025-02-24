@@ -67,3 +67,20 @@ No general area, heads of the game\
 [Charles Martin](https://www.linkedin.com/in/charlesmartin14/)\
 [Aksel Fristrup](https://www.linkedin.com/in/aksel-fristrup/)
 
+
+
+
+
+# Interview questions
+
+An ant leaves its anthill in order to forage for food. It moves with the speed of 10cm per second, but it doesn't know where to go, therefore every second it moves randomly 10cm directly north, south, east or west with equal probability.\
+- If the food is located on east-west lines 20cm to the north and 20cm to the south, as well as on north-south lines 20cm to the east and 20cm to the west from the anthill, how long will it take the ant to reach it on average?\
+- What is the average time the ant will reach food if it is located only on a diagonal line passing through (10cm, 0cm) and (0cm, 10cm) points?\
+- Can you write a program that comes up with an estimate of average time to find food for any closed boundary around the anthill? What would be the answer if food is located outside an defined by ( (x – 2.5cm) / 30cm )2 + ( (y – 2.5cm) / 40cm )2 < 1 in coordinate system where the anthill is located at (x = 0cm, y = 0cm)? Provide us with a solution rounded to the nearest integer.\
+
+\
+
+1) What would you pay to play a game where you receive what ever number is on a rolled die in dollars (so if you roll a 6, you receive $6)?\
+2) What if you can re-roll it if you don't like the number? If you can re-roll twice?\
+3) Write a program that calculates the expected value of this game with n re-rolls and s sides to the die.\
+4) Can you make the space with respect to n sub-linear?\
