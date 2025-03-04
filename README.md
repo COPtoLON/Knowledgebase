@@ -1,3 +1,7 @@
+https://www.figgie.com/play/
+https://www.ceremade.dauphine.fr/~cardaliaguet/MFGcours2018.pdf
+https://www.semanticscholar.org/paper/Mean-field-games-Lasry-Lions/53e6ace0948f9b3aeb72b80566cc3a357d7a2277
+
 1. intro - what is? why is important? 
 2. if you want to donate/contribute
 3. structure
