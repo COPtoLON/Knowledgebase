@@ -48,6 +48,8 @@
       - [x] Apply
    - [ ] Tower Research - Quant Developer - 85% match [link](https://boards.greenhouse.io/embed/job_app?token=4944865&gh_src=be8ebc4b1&source=LinkedIn)
       - [x] Apply
+   - [ ] Quant Developer - Citadel - [link](https://www.citadelsecurities.com/careers/details/quantitative-developer-research-engineer/)
+      - [x] Apply
 
   **break**
    - [ ] Quant Strategist - 85%-90% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/61976)
