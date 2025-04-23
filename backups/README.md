@@ -1,1 +1,46 @@
+- **Hiring process**
+   - [x] ~~Man Group AHL - Risk Quant Dev~~
+      - [x] Homework
+      - [x] First interview
+      - [x] Homework was insufficient and I needed deeper understanding of terminology, time spent, error-types
+   - [x] ~~Nickel Digital Assets - Quant Dev(?) - Analyst(?)~~
+      - [x] First interview
+      - [x] Option pricing theory and "I want to be an analyst in the future"
+   - [x] ~~Handelsbanken - Data analyst~~
+      - [x] Automatic reply
+   - [x] ~~Mathnasium - Mathematics Tutor~~
+      - [x] First interview - hand calculations - probably no response
+   - [ ] ~~WhiteSpace - Quant Dev / Forecast analyst / Software Engineer~~
+      - [x] First interview - 1st of April
+      - [ ] Lack of finance knowledge?
+   - [x] ~~IWG - Pricing analyst~~
+      - [x] First interview
+      - [ ] Automatic reply - dunno
+   - [ ] Squarepoint - Software Developer - Python
+      - [x] HackerRank test - 1 passed all checks, 1 passed 5/9 checks
+      - [ ] Perhaps First interview
+   - [x] ~~Santander - Quant dev risk~~
+      - [x] Ghosted
+   - [ ] SmartestEnergy - Quantitative analyst
+      - [x] Online Interview 31/3 - went alright?
+      - [ ] Second interview?
+   - [x] Opportunities hub - Junior Quant analyst
+      - [x] Video introduction
+   - [ ] Opportunities hub - Junior Quant analyst
+      - [x] Video introduction
+   - [ ] Qube-RT - Quantitative Strategist
+      - [ ] Interview? Feedback?
+   - [ ] Qube-RT - Quantitative researcher Crypto
+      - [ ] Interview? Feedback?
+   - [ ] LSEG - ???
+      - [x] Draft email for Saj
+      - [ ] Call 04/04 - ???
+   - [ ] quant analyst/strategist - quantum xyz
+   - [ ] Danish speaker...
 
+- **Scores**
+   - Eames - Ewelina Bobrek = + mio.
+   - iO Associates - Shivani Patel = 0
+   - Selby Jennings - Daniel (?) = - 5
+   - Selby Jennings - Cate (?) = - 5
+   - Impellam Group - Maryam Ahmed = - 5
