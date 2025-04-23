@@ -9,34 +9,26 @@
    - [x] ~~Handelsbanken - Data analyst~~
       - [x] Automatic reply
    - [x] ~~Mathnasium - Mathematics Tutor~~
-      - [x] First interview - hand calculations - probably no response
+      - [x] First interview - hand calculations - No response
    - [ ] ~~WhiteSpace - Quant Dev / Forecast analyst / Software Engineer~~
       - [x] First interview - 1st of April
-      - [ ] Lack of finance knowledge?
+      - [x] Lack of finance knowledge?
    - [x] ~~IWG - Pricing analyst~~
       - [x] First interview
-      - [ ] Automatic reply - dunno
-   - [ ] Squarepoint - Software Developer - Python
+      - [x] Automatic reply - dunno
+   - [ ] ~~Squarepoint - Software Developer - Python~~
       - [x] HackerRank test - 1 passed all checks, 1 passed 5/9 checks
-      - [ ] Perhaps First interview
+      - [x] No interview, no feedback
    - [x] ~~Santander - Quant dev risk~~
-      - [x] Ghosted
-   - [ ] SmartestEnergy - Quantitative analyst
+      - [x] Ghosted - Maryam Ahmed
+   - [ ] ~~SmartestEnergy - Quantitative analyst~~
       - [x] Online Interview 31/3 - went alright?
-      - [ ] Second interview?
-   - [x] Opportunities hub - Junior Quant analyst
-      - [x] Video introduction
-   - [ ] Opportunities hub - Junior Quant analyst
-      - [x] Video introduction
-   - [ ] Qube-RT - Quantitative Strategist
-      - [ ] Interview? Feedback?
-   - [ ] Qube-RT - Quantitative researcher Crypto
-      - [ ] Interview? Feedback?
-   - [ ] LSEG - ???
-      - [x] Draft email for Saj
-      - [ ] Call 04/04 - ???
+      - [x] No second interview - no feedback
+   - [x] ~~Qube-RT - All positions~~
+      - [x] Ghosted
+   - [ ] ~~Danish speaker...~~
+      - [ ] No genuine feedback, not a fit
    - [ ] quant analyst/strategist - quantum xyz
-   - [ ] Danish speaker...
 
 - **Scores**
    - Eames - Ewelina Bobrek = + mio.
