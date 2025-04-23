@@ -1,4 +1,14 @@
 - **Hiring process**
+   - [x] ~~Total Energies - Pricing Analyst~~
+      - [x] Automatic reply
+   - [x] ~~Silvertide - Quant Developer Rates~~
+      - [x] Automatic reply
+   - [x] ~~White Swan - Junior Quant Specialist~~
+      - [x] Automatic reply
+   - [x] ~~SkyTV - ???~~
+      - [x] Automatic reply
+   - [x] ~~May Business Consulting - ???~~
+      - [x] Automatic reply
    - [x] ~~Man Group AHL - Risk Quant Dev~~
       - [x] Homework
       - [x] First interview
@@ -34,6 +44,13 @@
       - [ ] Developer - adjusted profile [Dev position](https://careers.db.com/professionals/search-roles/#/professional/job/62544)
          - [ ] Send application 
    - [ ] 
+
+**Feedbacks**
+- Homework insufficient
+- Option theory
+- Hand calculations
+- Accomodating interview personality
+- Venture capital skills...
 
 
 - **Profile**
