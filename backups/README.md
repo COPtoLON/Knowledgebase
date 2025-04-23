@@ -43,6 +43,7 @@
          - [ ] Send application
       - [ ] Developer - adjusted profile [Dev position](https://careers.db.com/professionals/search-roles/#/professional/job/62544)
          - [ ] Send application 
+   - [ ] HyperExponential - data insights analyst 85-90% match [link](https://jobs.ashbyhq.com/hyperexponential/c8810ae9-2413-418b-b9c3-64ac3406ec51?locationId=18e33fd0-50b5-4265-b9da-41307c535eb0)
    - [ ] 
 
 **Feedbacks**
