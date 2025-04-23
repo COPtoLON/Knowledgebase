@@ -47,7 +47,7 @@
    - [ ] dare - Quant analyst - 93% match [link](https://careers.dare.global/jobs/5409342-quantitative-analyst)
       - [ ] Apply
    - [ ] Tower Research - Quant Developer - 85% match [link](https://boards.greenhouse.io/embed/job_app?token=4944865&gh_src=be8ebc4b1&source=LinkedIn)
-      - [ ] Apply
+      - [x] Apply
 
   **break**
    - [ ] Quant Strategist - 85%-90% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/61976)
