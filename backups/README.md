@@ -50,6 +50,10 @@
    - [ ] XY capital - Quant Trader/research - 85% match [link](https://job-boards.greenhouse.io/xycapital/jobs/4003596101?gh_src=1b820912teu)
    - [ ] dare - Quant analyst - 93% match [link](https://careers.dare.global/jobs/5409342-quantitative-analyst)
    - [ ] G-research - quant analyst - 90% match [link](https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/details/Quantitative-Analyst_R2633?source=linkedin&locationCountry=29247e57dbaf46fb855b224e03170bc7)
+   - [ ] DRW - data analyst - don't care [link](https://www.drw.com/work-at-drw/listings/data-analyst-3027271)
+   - [ ] Vertus partners - Quant developer [link](https://www.vertuspartners.com/job/quant-developer-python-slash-c-plus-plus-equities-investment-banking-1?source=bing.com)
+   - [ ] Anson McCade - junior quant researcher [link](https://www.ansonmccade.com/vacancy_detail.php?vacancy_id=102290)
+   - [ ] SEI - quant developer [link](https://careers.seic.com/global/en/job/R0029840/Quantitative-Developer)
 
 **Feedbacks**
 - Homework insufficient
