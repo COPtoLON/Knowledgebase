@@ -40,8 +40,8 @@
       - [ ] No genuine feedback, not a fit
    - [ ] Quant Developer - 93% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/62544)
       - [ ] Apply
-   - [ ] AIB - Junior Quat analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
-      - [ ] Apply
+   - [ ] AIB - Junior Quant analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
+      - [x] Apply
    - [ ] Cubist - Quant developer - 95% match [link](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013264&location=London&locale=English&retURL=/CSCareerSearch)
       - [ ] Apply
    - [ ] dare - Quant analyst - 93% match [link](https://careers.dare.global/jobs/5409342-quantitative-analyst)
