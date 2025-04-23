@@ -29,11 +29,10 @@
    - [ ] ~~Danish speaker...~~
       - [ ] No genuine feedback, not a fit
    - [ ] Deutsche Bank positions
-      - [ ] Strategist - fake profile
+      - [ ] Strategist - fake profile [strat position](https://careers.db.com/professionals/search-roles/#/professional/job/61976)
          - [ ] Send application
-      - [ ] Developer - adjusted profile
-         - [ ] Send application
-        
+      - [ ] Developer - adjusted profile [Dev position](https://careers.db.com/professionals/search-roles/#/professional/job/62544)
+         - [ ] Send application 
    - [ ] 
 
 
