@@ -28,7 +28,20 @@
       - [x] Ghosted
    - [ ] ~~Danish speaker...~~
       - [ ] No genuine feedback, not a fit
-   - [ ] quant analyst/strategist - quantum xyz
+   - [ ] Deutsche Bank positions
+      - [ ] Strategist - fake profile
+         - [ ] Send application
+      - [ ] Developer - adjusted profile
+         - [ ] Send application
+        
+   - [ ] 
+
+
+- **Profile**
+1. Quant developer/software engineer/... Developer with mathy profile - Because hands-on approach
+2. Quant strategist/Researcher/... Researcher - Because very philosophical
+3. Quant Analyst/Data Analyst... Analyst - Because very analytical
+
 
 - **Scores**
    - Eames - Ewelina Bobrek = + mio.
