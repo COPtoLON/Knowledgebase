@@ -39,12 +39,12 @@
    - [ ] ~~Danish speaker...~~
       - [ ] No genuine feedback, not a fit
    - [ ] Deutsche Bank positions
-      - [ ] Strategist - fake profile [strat position](https://careers.db.com/professionals/search-roles/#/professional/job/61976)
+      - [ ] Quant Strategist - 85%-90% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/61976)
          - [ ] Send application
-      - [ ] Developer - adjusted profile [Dev position](https://careers.db.com/professionals/search-roles/#/professional/job/62544)
+      - [ ] Quant Developer - 93% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/62544)
          - [ ] Send application 
    - [ ] HyperExponential - data insights analyst 85-90% match [link](https://jobs.ashbyhq.com/hyperexponential/c8810ae9-2413-418b-b9c3-64ac3406ec51?locationId=18e33fd0-50b5-4265-b9da-41307c535eb0)
-   - [ ] 
+   - [ ] AIB - Junior Quat analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
 
 **Feedbacks**
 - Homework insufficient
