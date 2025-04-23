@@ -43,7 +43,7 @@
    - [ ] AIB - Junior Quant analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
       - [x] Apply
    - [ ] Cubist - Quant developer - 95% match [link](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013264&location=London&locale=English&retURL=/CSCareerSearch)
-      - [ ] Apply
+      - [x] Apply
    - [ ] dare - Quant analyst - 93% match [link](https://careers.dare.global/jobs/5409342-quantitative-analyst)
       - [x] Apply
    - [ ] Tower Research - Quant Developer - 85% match [link](https://boards.greenhouse.io/embed/job_app?token=4944865&gh_src=be8ebc4b1&source=LinkedIn)
