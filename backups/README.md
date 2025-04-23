@@ -38,7 +38,7 @@
       - [x] Ghosted
    - [ ] ~~Danish speaker...~~
       - [ ] No genuine feedback, not a fit
-   - [ ] Quant Developer - 93% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/62544)
+   - [ ] Quant Developer - LSEG [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
       - [ ] Apply
    - [ ] AIB - Junior Quant analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
       - [x] Apply
