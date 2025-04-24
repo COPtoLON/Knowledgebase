@@ -62,6 +62,7 @@
    - [ ] SEI - quant developer [link](https://careers.seic.com/global/en/job/R0029840/Quantitative-Developer)
    - [ ] D.E. Shaw - quant developer [link](https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295)
    - [ ] 2Sigma - Quant trader/researcher - [link](https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Quantitative-Researcher-Quantitative-Trader-Two-Sigma-Securities-UK/12635)
+   - [ ] HRT - Data production engineer - [link](https://www.hudsonrivertrading.com/careers/job/?_offices=London&gh_jid=5196809&req_id=431)
 
 **Feedbacks**
 - Homework insufficient
