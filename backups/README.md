@@ -63,6 +63,15 @@
    - [ ] D.E. Shaw - quant developer [link](https://www.deshaw.com/careers/quant-systems-systems-developer-london-5295)
    - [ ] 2Sigma - Quant trader/researcher - [link](https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Quantitative-Researcher-Quantitative-Trader-Two-Sigma-Securities-UK/12635)
    - [ ] HRT - Data production engineer - [link](https://www.hudsonrivertrading.com/careers/job/?_offices=London&gh_jid=5196809&req_id=431)
+   - [ ] Wintermute - Algo trader [link](https://jobs.lever.co/wintermute-trading/b14e6e12-1f39-41b8-a3ed-8b02ac8b1464)
+   - [ ] Wintermute - Quant researcher [link](https://jobs.lever.co/wintermute-trading/0874ca9b-7c02-4364-bb78-b7b04272351e)
+   - [ ] Wintermute - Core dev [link](https://jobs.lever.co/wintermute-trading/d059ea72-e3d2-42ce-bbb3-d47531e0c933)
+   - [ ] Wintermute - C++ Quant dev [link](https://jobs.lever.co/wintermute-trading/4cab7a75-4304-4590-90c5-6755dbd97d36)
+   - [ ] b2c2 - connectivity dev [link](https://job-boards.eu.greenhouse.io/b2c2/jobs/4556589101)
+   - [ ] Verition - Platform dev [link](https://www.verition.com/open-positions?gh_jid=4706885007)
+   - [ ] Verition - quant dev [link](https://www.verition.com/open-positions?gh_jid=4651451007)
+   - [ ] Jane street - quant trader [link](https://www.janestreet.com/join-jane-street/position/4273643002/)
+   - [ ] Jane street - quant researcher [link](https://www.janestreet.com/join-jane-street/position/4808264002/)
 
 **Feedbacks**
 - Homework insufficient
