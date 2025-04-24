@@ -38,8 +38,6 @@
       - [x] Ghosted
    - [ ] ~~Danish speaker...~~
       - [ ] No genuine feedback, not a fit
-   - [ ] Quant Developer - LSEG [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
-      - [ ] Apply
    - [ ] AIB - Junior Quant analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
       - [x] Apply
    - [ ] Cubist - Quant developer - 95% match [link](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013264&location=London&locale=English&retURL=/CSCareerSearch)
@@ -50,11 +48,15 @@
       - [x] Apply
    - [ ] Quant Developer - Citadel - [link](https://www.citadelsecurities.com/careers/details/quantitative-developer-research-engineer/)
       - [x] Apply
+   - [ ] XY capital - Quant Trader/research - 85% match [link](https://job-boards.greenhouse.io/xycapital/jobs/4003596101?gh_src=1b820912teu)
+      - [ ] Apply
+   - [ ] Quant Developer - LSEG [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
+      - [x] Apply/ Write to Saj
+      - [ ] ???
 
   **break**
    - [ ] Quant Strategist - 85%-90% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/61976)
    - [ ] HyperExponential - data insights analyst 85-90% match [link](https://jobs.ashbyhq.com/hyperexponential/c8810ae9-2413-418b-b9c3-64ac3406ec51?locationId=18e33fd0-50b5-4265-b9da-41307c535eb0)
-   - [ ] XY capital - Quant Trader/research - 85% match [link](https://job-boards.greenhouse.io/xycapital/jobs/4003596101?gh_src=1b820912teu)
    - [ ] G-research - quant analyst - 90% match [link](https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/details/Quantitative-Analyst_R2633?source=linkedin&locationCountry=29247e57dbaf46fb855b224e03170bc7)
    - [ ] DRW - data analyst - don't care [link](https://www.drw.com/work-at-drw/listings/data-analyst-3027271)
    - [ ] Vertus partners - Quant developer [link](https://www.vertuspartners.com/job/quant-developer-python-slash-c-plus-plus-equities-investment-banking-1?source=bing.com)
