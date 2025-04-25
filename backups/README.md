@@ -76,6 +76,7 @@
    - [ ] Wintermute - Core dev [link](https://jobs.lever.co/wintermute-trading/d059ea72-e3d2-42ce-bbb3-d47531e0c933)
    - [ ] Wintermute - C++ Quant dev [link](https://jobs.lever.co/wintermute-trading/4cab7a75-4304-4590-90c5-6755dbd97d36)
    - [ ] b2c2 - connectivity dev [link](https://job-boards.eu.greenhouse.io/b2c2/jobs/4556589101)
+   - [ ] quant trader - ... [link](https://recruiterflow.com/fionics/jobs/28?source=Linkedin)
 
 **Feedbacks**
 - Homework insufficient
