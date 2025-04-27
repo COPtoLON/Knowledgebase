@@ -38,6 +38,17 @@
       - [x] Ghosted
    - [ ] ~~Danish speaker...~~
       - [ ] No genuine feedback, not a fit
+   - [ ] HSBC - Quant developer
+      - [ ] Applied ...
+   - [ ] MUFG - markets quant developer
+      - [ ] Applied via Bonhill Partners
+   - [ ] LSEG - Quant Developer  [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
+      - [x] Write to Saj
+      - [x] Referred to Zain
+      - [x] Referred officially by Agata
+      - [x] Applied
+      - [ ] Read up on requirements
+      - [ ] Next steps?
    - [ ] AIB - Junior Quant analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
       - [x] Apply
    - [ ] Cubist - Quant developer - 95% match [link](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013264&location=London&locale=English&retURL=/CSCareerSearch)
@@ -48,8 +59,6 @@
       - [x] Apply
    - [ ] Quant Developer - Citadel - [link](https://www.citadelsecurities.com/careers/details/quantitative-developer-research-engineer/)
       - [x] Apply
-   - [ ] LSEG - Quant Developer  [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
-      - [x] Apply/ Write to Saj
    - [ ] XY capital - Quant Trader/research - 85% match [link](https://job-boards.greenhouse.io/xycapital/jobs/4003596101?gh_src=1b820912teu)
       - [ ] Apply
    - [ ] Wintermute - Algo trader [link](https://jobs.lever.co/wintermute-trading/b14e6e12-1f39-41b8-a3ed-8b02ac8b1464)
@@ -94,7 +103,12 @@
 
 - **Scores**
    - Eames - Ewelina Bobrek = + mio.
-   - iO Associates - Shivani Patel = 0
+   - LSEG - Agata = + mio.
+   - LSEG - Saj = + mio.
+   - Bonhill Partners - Jonny Langston = + 1
+   - Quanteam - Omair Langah = 0
+   - iO Associates - Shivani Patel = -1
+   - iO Associates - Mason = -1
    - Selby Jennings - Daniel (?) = - 5
    - Selby Jennings - Cate (?) = - 5
    - Impellam Group - Maryam Ahmed = - 5
