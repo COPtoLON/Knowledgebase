@@ -40,6 +40,9 @@
       - [x] No genuine feedback, not a fit
    - [x] ~~Deutsche bank - Franchise Pricing Strat - not shortlisted~~
    - [x] ~~Wincent - something something - not shortlisted~~
+   - [x] Investigo - Python Quant Developer
+      - [x] Applied
+      - [ ] Phone call - monday? didnt happen
    - [ ] HSBC - Quant developer
       - [ ] Applied ...
    - [ ] MUFG - markets quant developer
