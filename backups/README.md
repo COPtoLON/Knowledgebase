@@ -20,24 +20,26 @@
       - [x] Automatic reply
    - [x] ~~Mathnasium - Mathematics Tutor~~
       - [x] First interview - hand calculations - No response
-   - [ ] ~~WhiteSpace - Quant Dev / Forecast analyst / Software Engineer~~
+   - [x] ~~WhiteSpace - Quant Dev / Forecast analyst / Software Engineer~~
       - [x] First interview - 1st of April
       - [x] Lack of finance knowledge?
    - [x] ~~IWG - Pricing analyst~~
       - [x] First interview
       - [x] Automatic reply - dunno
-   - [ ] ~~Squarepoint - Software Developer - Python~~
+   - [x] ~~Squarepoint - Software Developer - Python~~
       - [x] HackerRank test - 1 passed all checks, 1 passed 5/9 checks
       - [x] No interview, no feedback
    - [x] ~~Santander - Quant dev risk~~
       - [x] Ghosted - Maryam Ahmed
-   - [ ] ~~SmartestEnergy - Quantitative analyst~~
+   - [x] ~~SmartestEnergy - Quantitative analyst~~
       - [x] Online Interview 31/3 - went alright?
       - [x] No second interview - no feedback
    - [x] ~~Qube-RT - All positions~~
       - [x] Ghosted
-   - [ ] ~~Danish speaker...~~
-      - [ ] No genuine feedback, not a fit
+   - [x] ~~Danish speaker...~~
+      - [x] No genuine feedback, not a fit
+   - [x] ~~Deutsche bank - Franchise Pricing Strat - not shortlisted~~
+   - [x] ~~Wincent - something something - not shortlisted~~
    - [ ] HSBC - Quant developer
       - [ ] Applied ...
    - [ ] MUFG - markets quant developer
