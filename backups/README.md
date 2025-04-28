@@ -91,6 +91,9 @@
    - [ ] Wintermute - C++ Quant dev [link](https://jobs.lever.co/wintermute-trading/4cab7a75-4304-4590-90c5-6755dbd97d36)
    - [ ] b2c2 - connectivity dev [link](https://job-boards.eu.greenhouse.io/b2c2/jobs/4556589101)
    - [ ] quant trader - ... [link](https://recruiterflow.com/fionics/jobs/28?source=Linkedin)
+   - [ ] Man group - [link](https://job-boards.eu.greenhouse.io/mangroup?gh_src=927b5d72teu)
+   - [ ] jump trading - [link](https://www.jumptrading.com/careers/?locations=London)
+   - [ ] worldquant - [link](https://www.worldquant.com/careers/)
 
 **Feedbacks**
 - Homework insufficient
