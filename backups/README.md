@@ -48,8 +48,8 @@
       - [ ] Read up on requirements
       - [ ] Next steps?
    - [ ] Deutsche Bank - Quant Developer
-      - [ ] email response - phone call
-      - [ ] phone call?
+      - [x] email response - phone call
+      - [ ] phone call nest week
    - [x] Investigo - Python Quant Developer
       - [x] Applied
       - [ ] Phone call - monday? didnt happen
@@ -111,6 +111,8 @@
 - Hand calculations
 - Accomodating interview personality
 - Venture capital skills...
+- XVA/CCR readup
+- Options/derivatives pricing readup
 
 
 - **Profile**
