@@ -40,7 +40,7 @@
       - [x] No genuine feedback, not a fit
    - [x] ~~Deutsche bank - Franchise Pricing Strat - not shortlisted~~
    - [x] ~~Wincent - something something - not shortlisted~~
-     - [ ] LSEG - Quant Developer  [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
+   - [ ] LSEG - Quant Developer  [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
       - [x] Write to Saj
       - [x] Referred to Zain
       - [x] Referred officially by Agata
