@@ -40,6 +40,16 @@
       - [x] No genuine feedback, not a fit
    - [x] ~~Deutsche bank - Franchise Pricing Strat - not shortlisted~~
    - [x] ~~Wincent - something something - not shortlisted~~
+     - [ ] LSEG - Quant Developer  [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
+      - [x] Write to Saj
+      - [x] Referred to Zain
+      - [x] Referred officially by Agata
+      - [x] Applied
+      - [ ] Read up on requirements
+      - [ ] Next steps?
+   - [ ] Deutsche Bank - Quant Developer
+      - [ ] email response - phone call
+      - [ ] phone call?
    - [x] Investigo - Python Quant Developer
       - [x] Applied
       - [ ] Phone call - monday? didnt happen
@@ -47,13 +57,13 @@
       - [ ] Applied ...
    - [ ] MUFG - markets quant developer
       - [ ] Applied via Bonhill Partners
-   - [ ] LSEG - Quant Developer  [link](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/details/Quantitative-Developer_R0103686-1?locationCountry=29247e57dbaf46fb855b224e03170bc7)
-      - [x] Write to Saj
-      - [x] Referred to Zain
-      - [x] Referred officially by Agata
-      - [x] Applied
-      - [ ] Read up on requirements
-      - [ ] Next steps?
+   - [ ] ??? - Python developer Front office Derivatives/FX - FDM
+      - [x] recruiter called
+      - [ ] send CV
+   - [ ] Kappa labs - Alexander Chapman applied
+   - [ ] Eqvilent - Alexander Chapman applied
+   - [ ] Rockbund Capital - Alexander Chapman applied
+   - [ ] Portofino Technologies - Alexander Chapman applied
    - [ ] AIB - Junior Quant analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
       - [x] Apply
    - [ ] Cubist - Quant developer - 95% match [link](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013264&location=London&locale=English&retURL=/CSCareerSearch)
