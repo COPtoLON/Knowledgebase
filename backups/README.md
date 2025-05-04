@@ -52,18 +52,13 @@
       - [ ] phone call - 6/5/2025
    - [x] Investigo - Python Quant Developer
       - [x] Applied
-      - [ ] Phone call - monday? didnt happen
-   - [ ] HSBC - Quant developer
-      - [ ] Applied ...
-   - [ ] MUFG - markets quant developer
-      - [ ] Applied via Bonhill Partners
+   - [x] HSBC - Quant developer
+      - [x] Applied
+   - [x] MUFG - markets quant developer
+      - [x] Applied via Bonhill Partners
    - [ ] ??? - Python developer Front office Derivatives/FX - FDM
       - [x] recruiter called
       - [ ] send CV
-   - [ ] Kappa labs - Alexander Chapman applied
-   - [ ] Eqvilent - Alexander Chapman applied
-   - [ ] Rockbund Capital - Alexander Chapman applied
-   - [ ] Portofino Technologies - Alexander Chapman applied
    - [ ] AIB - Junior Quant analyst - 95% match [link](https://jobs.aib.ie/aib/job/Various-Junior-Quantitative-Analyst%2C-London-Dublin-&-Hybrid-IE/1265987100/)
       - [x] Apply
    - [ ] Cubist - Quant developer - 95% match [link](https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013264&location=London&locale=English&retURL=/CSCareerSearch)
@@ -81,6 +76,10 @@
    - [ ] Wintermute - Quant researcher [link](https://jobs.lever.co/wintermute-trading/0874ca9b-7c02-4364-bb78-b7b04272351e)
       - [ ] Apply
    - [ ]  [link](https://www.linkedin.com/jobs/view/4217261155/?eBP=CwEAAAGWbBLzM4Dh9FNfJiUC7B9VomsTlkJ3MXK1dbjrcpfWM1m1e-InI7B2dlrJGVdoZCmOcTcAtv_Lqqsx4cHZZWOOK2AlaBucU7h5oc6F0rap4LcIhA8AhDgQ4lPhkxhsc1rJRSQebx9y0rF8KMjIsGVZaCb2ADf4Ir8AoUn2Lxww9esh03Tjx1kmBBzYrxw_NTMwgATM7LhF1OsaOY4SDUr76y46a1KO2ciIIEwOwvwHOHYfapMdYij_JU3ZcPInLNtLxMrm35e4NV6_1gjQo__CRR8ndYPUjJdltrJbde64bOyNsc-qQ-6KRWZzoSyLC8wuMcmQcByRxz4I6vIklAqIhZ7yfROwOfYzxaFHw3kMw2Gd5GicZZJS0xzczqUgHsjPnfRHQi_SjTdkMv4iq7e6YmFH6wSanDVy_D-aLw3xKMHkxad1cI-p6UWAZTpOeTuSbSrnE7mmI37rfNJJwlyLCxKivnV5LRnJk3im5miRGNiotS2PBGdeLb59SYVleIheASV1mCjg&refId=cG%2BeOtu%2B5r%2BrCqQhct2eMw%3D%3D&trackingId=UER%2FiNEEbdM5FTh9AeiSvg%3D%3D&trk=flagship3_search_srp_jobs)
+   - [ ] Kappa labs - Alexander Chapman applied
+   - [ ] Eqvilent - Alexander Chapman applied
+   - [ ] Rockbund Capital - Alexander Chapman applied
+   - [ ] Portofino Technologies - Alexander Chapman applied
 
   **break**
    - [ ] Quant Strategist - 85%-90% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/61976)
