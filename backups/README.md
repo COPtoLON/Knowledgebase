@@ -48,8 +48,8 @@
       - [ ] Read up on requirements
       - [ ] Next steps?
    - [ ] Deutsche Bank - Quant Developer
-      - [x] email response - phone call
-      - [ ] phone call nest week
+      - [x] email response
+      - [ ] phone call - 6/5/2025
    - [x] Investigo - Python Quant Developer
       - [x] Applied
       - [ ] Phone call - monday? didnt happen
