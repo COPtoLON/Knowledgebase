@@ -12,7 +12,9 @@ DB GSA, MARKET RISK, blah blah blah.<br>
 **Tell me about yourself** <br>
 - Quant dev
 - experience with the job description
+
 <br>
+
 **Questions**
 - What about position?
 - Regulatory compliance or next step ahead?
