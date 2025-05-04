@@ -5,12 +5,22 @@ Hi mark, how are you?... <br>
 Hi Michael, I'm good, I enjoyed some annual leave last week. How are you?...<br>
 <br>
 Oh good, blah blah blah...<br>
-Company/job etc. description.<br>
+**Company/job etc. description.** <br>
 <br>
 DB GSA, MARKET RISK, blah blah blah.<br>
 <br>
-**Tell me about yourself**<br>
+**Tell me about yourself** <br>
+- Quant dev
+- experience with the job description
+<br>
+**Questions**
+- What about position?
+- Regulatory compliance or next step ahead?
+- What's your favorite movie?
 
+
+
+--------------------------------------------------------------
 ### 1. Understanding
 I've been led to understand that the Quant Dev position in Deutsche bank's Group strategic analytics department works on building models for FRTB specifically market risk. 
 So the obvious considerations would be to consider what risk measures would be useful for Deutsche Bank, such as VaR, CVaR, Expected shortfall, Stress testing and what capital requirements there are. *economic‑capital engines*
