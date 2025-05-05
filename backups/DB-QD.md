@@ -17,15 +17,21 @@
 <br>
 
 **Tell me about yourself**
-- Quant dev
+- Quant dev with approximately 4 years experience.
+  - Start-up - Everything and more - 2 years experience - 2023 - 2025
+  - LD Pensions - everything - about 1 year experience - 2023 - 2024
+  - Bank - data quality analyst - IRB - 2022 - 2023
+  - Statistics - financial data analyst - python, SAS, SQL, ... 2021 - 2023
 - experience with the job description
+  - sdasd
 
 <br>
 
 **Questions**
-- What about position?
-- Regulatory compliance or next step ahead?
-- What's your favorite movie?
+- Ice breaker - What's your favorite movie?
+- Will the goal be to comply with regulations or to take the next step ahead?
+- I've noticed the position has been taken down and put back up a couple of times?
+
 
 
 
