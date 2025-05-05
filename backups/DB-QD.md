@@ -1,6 +1,7 @@
 # Phone call plan
 
 **initial opening** \
+<br>
 **Michael:** Hi is this mark?, how are you?... \
 **Mark:** Hi Michael, I'm good, I enjoyed some annual leave last week. How are you?... \
 **Michael:** Oh good, blah blah blah... \
