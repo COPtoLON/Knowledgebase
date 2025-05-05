@@ -13,8 +13,10 @@
   - Fundamental Review of the Trading Book (FRTB)
   - Capital calculation - Economic Capital
   - Further build out of front office platform
+
 <br>
-**Tell me about yourself** <br>
+
+**Tell me about yourself**
 - Quant dev
 - experience with the job description
 
