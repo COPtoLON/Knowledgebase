@@ -14,8 +14,6 @@
   - Capital calculation - Economic Capital
   - Further build out of front office platform
 <br>
-DB GSA, MARKET RISK, blah blah blah.<br>
-<br>
 **Tell me about yourself** <br>
 - Quant dev
 - experience with the job description
