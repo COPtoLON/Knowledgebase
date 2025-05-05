@@ -1,10 +1,12 @@
 # Phone call plan
 
-Hi mark, how are you?... <br>
+**initial opening**
+Hi is this mark?, how are you?... <br>
 <br>
-Hi Michael, I'm good, I enjoyed some annual leave last week. How are you?...<br>
+Hi Michael, I'm good, I enjoyed some annual leave last week. How are you?...<br> 
 <br>
 Oh good, blah blah blah...<br>
+<br>
 **Company/job etc. description.** <br>
 <br>
 DB GSA, MARKET RISK, blah blah blah.<br>
