@@ -24,6 +24,7 @@
   - Statistics - financial data analyst - python, SAS, SQL, ... 2021 - 2023
 
 <br>
+
 - Relevant Experiences
   - Built a Python/C++ market‑risk stack that already delivers Monte‑Carlo VaR, CVaR, stressed‑VaR and FRTB‑style risk‑the‑future (RTF) scenarios for portfolios of IR‑swaps, FX‑forwards and Crypto; The work was done while at LD Pensions and at my start-up.
   - Delivered production VaR/CVaR, CCR and stress-testing dashboards at LD Pensions – Which I believe is relevant experience for Market‑Risk Strats; I've used Python, SAS & SQL and fed exec‑level stress packs, directly echoing the advertised focus on Capital / Stress metrics.
