@@ -7,7 +7,12 @@
 **Michael:** Oh good, blah blah blah... \
 **Michael:** -- Little plan of interview -- \
 <br>
-**Company/job etc. description.** <br>
+**Company/job etc. description.**
+- Deutsche bank - group strategic analytics - Market Risk Strats
+  - Market Risk calculation - Value at Risk (VaR), Conditional Value at Risk (CVaR) and Stress Testing
+  - Fundamental Review of the Trading Book (FRTB)
+  - Capital calculation - Economic Capital
+  - Further build out of front office platform
 <br>
 DB GSA, MARKET RISK, blah blah blah.<br>
 <br>
