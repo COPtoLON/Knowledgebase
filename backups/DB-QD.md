@@ -22,6 +22,7 @@
   - LD Pensions - everything - about 1 year experience - 2023 - 2024
   - Bank - data quality analyst - IRB - 2022 - 2023
   - Statistics - financial data analyst - python, SAS, SQL, ... 2021 - 2023
+  - Inbetween Math tutor, Python course instructor and VBA course instructor., freelance software developer
 
 <br>
 
