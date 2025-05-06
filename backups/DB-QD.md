@@ -27,9 +27,11 @@
 <br>
 
 - Relevant Experiences
-  - Built a Python/C++ market‑risk stack that already delivers Monte‑Carlo VaR, CVaR, stressed‑VaR and FRTB‑style risk‑the‑future (RTF) scenarios for portfolios of IR‑swaps, FX‑forwards and Crypto; The work was done while at LD Pensions and at my start-up.
-  - Delivered production VaR/CVaR, CCR and stress-testing dashboards at LD Pensions – Which I believe is relevant experience for Market‑Risk Strats; I've used Python, SAS & SQL and fed exec‑level stress packs, directly echoing the advertised focus on Capital / Stress metrics.
-  - Advanced scenario & regime analytics (Hidden‑Markov, Bayesian changepoint, K-mean clustering) baked into the trading stack enable proactive stress testing and capital forecasting – precisely the cross‑business quantitative innovation GSA seeks 
+  - I have already Built a Python/C++ market‑risk stack that delivers VaR, CVaR and FRTB‑style scenario stress-testing for portfolios of various assets.
+  - I have Delivered production-grade risk engine, with VaR/CVaR, CCR and stress-testing dashboards at LD Pensions –
+  - I've used Python, C++, SAS, R & SQL.
+  - I've used advanced scenario & regime analytics (Hidden‑Markov, Bayesian changepoint, K-mean clustering) baked into the trading stack to enable proactive stress testing and capital forecasting – 
+Which I believe is precisely the cross‑business quantitative innovation deutsche bank seeks 
 
 <br>
 
