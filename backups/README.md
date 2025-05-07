@@ -52,6 +52,9 @@
       - [x] phone call - 6/5/2025
       - [ ] MS teams meeting - 12/5/2025
       - [ ] ???
+   - [ ] Flowdesk - Quantitative Developer
+      - [x] Applied
+      - [ ] HR phone interview - 9/05 - 11:30 - 12:00
    - [x] Investigo - Python Quant Developer
       - [x] Applied
    - [x] HSBC - Quant developer
@@ -82,9 +85,6 @@
    - [ ] Eqvilent - Alexander Chapman applied
    - [ ] Rockbund Capital - Alexander Chapman applied
    - [ ] Portofino Technologies - Alexander Chapman applied
-   - [ ] Flowdesk - Quantitative Developer
-      - [ ] Applied
-      - [ ] HR phone interview - 9/05 - 11:30 - 12:00
    - [ ] Low-key hedge fund in Newyork? - Alexander Chapman applied
    - [ ] asd
 
