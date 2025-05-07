@@ -86,7 +86,7 @@
       - [ ] Applied
       - [ ] HR phone interview - 9/05 - 11:30 - 12:00
    - [ ] Low-key hedge fund in Newyork? - Alexander Chapman applied
-   - [ ] 
+   - [ ] asd
 
   **break**
    - [ ] Quant Strategist - 85%-90% match [link](https://careers.db.com/professionals/search-roles/#/professional/job/61976)
