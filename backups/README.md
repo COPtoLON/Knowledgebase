@@ -50,8 +50,8 @@
    - [ ] Deutsche Bank - Quant Developer
       - [x] email response
       - [x] phone call - 6/5/2025
-      - [ ] Right to represent - email
-      - [ ] Maybe call with another hiring manager?
+      - [ ] MS teams meeting - 12/5/2025
+      - [ ] ???
    - [x] Investigo - Python Quant Developer
       - [x] Applied
    - [x] HSBC - Quant developer
