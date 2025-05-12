@@ -131,10 +131,12 @@
    - Eames - Ewelina Bobrek = + mio.
    - LSEG - Agata = + mio.
    - LSEG - Saj = + mio.
+   - Alexander Chapman = + 2
+   - Robert Lycett - RiskPod = +1 , call him up every now and again. 07710 517749
    - Bonhill Partners - Jonny Langston = + 1
-   - Quanteam - Omair Langah = 0
-   - iO Associates - Shivani Patel = -1
+   - Quanteam - Omair Langah = -1
    - iO Associates - Mason = -1
+   - iO Associates - Shivani Patel = -2
    - Selby Jennings - Daniel (?) = - 5
    - Selby Jennings - Cate (?) = - 5
    - Impellam Group - Maryam Ahmed = - 5
