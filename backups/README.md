@@ -50,7 +50,7 @@
    - [ ] Deutsche Bank - Quant Developer
       - [x] email response
       - [x] phone call - 6/5/2025
-      - [ ] MS teams meeting - 12/5/2025
+      - [x] MS teams meeting - 14/5/2025
       - [ ] ???
    - [ ] Flowdesk - Quantitative Developer
       - [x] Applied
@@ -70,6 +70,7 @@
       - [x] Apply
    - [ ] dare - Quant analyst - 93% match [link](https://careers.dare.global/jobs/5409342-quantitative-analyst)
       - [x] Apply
+      - [ ] First phone interview
    - [ ] Tower Research - Quant Developer - 85% match [link](https://boards.greenhouse.io/embed/job_app?token=4944865&gh_src=be8ebc4b1&source=LinkedIn)
       - [x] Apply
    - [ ] Quant Developer - Citadel - [link](https://www.citadelsecurities.com/careers/details/quantitative-developer-research-engineer/)
