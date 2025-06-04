@@ -36,7 +36,8 @@ knowledge base of quantitative finance concepts, and components for a startup's 
 Mark has dedicated over 10,000 hours to intensive study and research, actively engaging 
 in professional communities and advanced seminars, and exploring unifying mathematical 
 frameworks across finance, physics, and optimization. 
-soft skills 
+
+## soft skills 
 • Resilient & Even-Tempered: Maintain calm composure in demanding or unconventional 
 environments, sustaining productivity and morale under pressure. 
 • Creative Problem-Solver: Generate original ideas—spanning design, trading strategies, 
@@ -57,326 +58,53 @@ based partnerships that foster team cohesion and loyalty.
 long-term vision to move projects forward. 
 • Positive & Steady Disposition: Humour-stable and level-headed, contributing to a 
 constructive atmosphere even in high-stakes settings. 
-Work Experience 
-Founder, Quantitative Researcher and Developer 
+# Work Experience 
+### Founder, Quantitative Researcher and Developer 
 TMRW | Remote | January 2021 – Present 
-Founded and led development of a comprehensive algorithmic trading platform (“TMRW”) 
-integrating advanced quantitative modeling, AI-driven market analysis, and live trading 
-execution. Incorporated theoretical innovations such as an extended geometric-information 
-framework for multi-agent market dynamics into practical machine learning and reinforcement 
-learning strategies, deploying both ultra-low-latency and mid-frequency trading systems. 
-Achieved notable results including a ~13% return in a short-term live trading deployment and a 
-top 0.5% ranking (#107/12,000) in the IMC Prosperity 3 global quantitative trading challenge. 
-• Theoretical Research: Developed an extended geometric-information framework for 
-market modeling, blending physics (differential geometry) with game theory to treat the 
-market as a dynamic geometric field of interacting agents. This novel approach 
-formalized trading strategies as hybrid geometric-information flows, providing a rigorous 
-foundation for adaptive, multi-scale trading systems. 
-• Regime Detection & Strategy Allocation: Designed advanced market-state detection 
-algorithms using multi-model classifiers – including physics-informed turbulence 
-metrics, Hidden Markov Models, decision trees, and stationarity tests – to identify 
-regime shifts in real time. Built an AI-driven strategy engine that dynamically switches 
-between trend-following, mean-reversion, and event-driven strategies based on 
-detected market regimes and volatility forecasts, enabling the portfolio to continuously 
-adapt to changing market conditions. 
-• Machine Learning & RL Strategies: Developed and deployed trading algorithms across 
-multiple time horizons – from ultra-low latency market-making and arbitrage bots 
-(microsecond-to-millisecond reaction times) to mid-frequency momentum and 
-statistical arbitrage models using stochastic control and actor–critic reinforcement 
-learning, and even macro-scale portfolio optimizations via mean-field game theory. This 
-multi-scale approach ensured strategy robustness from high-frequency settings up to 
-longer-term market regimes. 
-• Infrastructure & Execution: Engineered a scalable research-to-execution infrastructure 
-with high-performance backtesting and real-time data pipelines (streaming multi-asset 
-order books, options, and news feeds). Integrated trading execution across major 
-exchanges – Binance, Coinbase, OKX, Robinhood, etc. – via low-latency APIs, 
-achieving sub-second order execution and embedding automated risk management 
-(dynamic position sizing, VaR/CVaR limits) for live trading. 
-• Performance & Achievements: Achieved a ~13% return in an initial live trading 
-deployment of TMRW’s strategies. Earned a top 0.5% global rank (107th out of ~12,000 
-participants) in the IMC Prosperity 3 algorithmic trading challenge, validating the 
-strategies against international competition. Incorporated the winning market-making 
-(Avellaneda-Stoikov with drift) and statistical arbitrage techniques from this competition 
-back into TMRW’s live trading framework to further enhance performance. 
-Freelance Software Developer 
+
+### Freelance Software Developer 
 Self-Employed | Remote | May 2024 – January 2025 
-• High-Frequency Trading Solutions: 
-o Developed a low-latency trading system to exploit meme-coin IPOs, guiding 
-clients from sub-penny coins to mid-cap altcoins on the Raydium market. 
-• Algorithmic Scripting & Web Projects: 
-o Created a Pine Script algorithm on TradingView to trigger trades based on 
-custom signals (e.g., “silver bullet,” exchange opening times, and multi-day 
-mean reversions). 
-o Designed a static HTML/CSS/JavaScript website for a hobby photographer, 
-focusing on aesthetic layout and user-friendly navigation. 
-• Data-Driven Excel Integrations: 
-o Built multiple Excel workbook enhancements with Python, C#, VBA, and 
-VBScript, enabling dashboards, financial calculations, inter-application 
-automation, and data visualization. 
-Key Tools & Skills: Python, Excel, VBA, Pine Script, web technologies (HTML/CSS/JS), batch 
-scripting, automation, solution design. 
-Train Station Service Personnel 
+
+### Train Station Service Personnel 
 DSB | Copenhagen, Denmark | May 2024 – January 2025 
-• Safety & Customer Assistance: 
-o Maintained cleanliness and safety at multiple train stations, ensuring positive 
-passenger experiences. 
-o Assisted customers with disabilities, providing empathetic support for boarding, 
-route guidance, and special mobility needs. 
-• Ad-Hoc Emergency Response: 
-o Collaborated with police and security in unique incidents, escorting customers 
-to safety. 
-o Managed specialized cleaning tasks, including traumatic situations, 
-demonstrating resilience under pressure. 
-• Certification & Training: 
-o Completed courses in psychological first aid, chemical safety, and train track 
-safety, reinforcing personal accountability and compliance. 
-Key Tools & Skills: Conflict resolution, frontline customer service, security compliance, 
-resilience. 
-Junior Quantitative Developer 
+
+### Junior Quantitative Developer 
 LD Pensions | Copenhagen, Denmark | August 2023 – May 2024 
-• Comprehensive Data Pipelines 
-o Automated ETL processes and scheduled scripts (via Python and task 
-scheduler) to ingest, clean, and unify data from multiple sources (Nykredit, 
-Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank). A 
-novel approach for the organization, causing data streams and the ability to 
-analyse data to go from weeks or days down to minutes or hours. 
-o Ensured teams received up-to-date analytics at the start of each workday, 
-minimizing data lag and manual overhead. 
-• Modular Python Framework 
-o Built a robust Python package for on-prem use, providing functionalities for 
-quantitative analysis, risk modeling, and data management. 
-o Evolved the framework from functional to object-oriented design, accelerating 
-code reusability and maintainability. 
-o Created an Excel add-in integrating the library’s functionalities—empowering 
-less technical users to access Python-driven analytics within Excel. 
-• Risk Analytics & Stress Testing 
-o Developed modules for VaR, CVaR, credit risk, interest rate risk, currency risk, 
-and derivatives risk, with special functions for on margin call frameworks for 
-currency futures and interest-rate-sensitive portfolios. 
-o Partnered with the Chief Investment Officer to interpret Morgan Stanley’s profit 
-forecasting data. Reverse-engineered VaR and CVaR calculations, built scenario 
-simulators (Geometric Brownian motion, square-root diffusion), and presented 
-f
- indings to C-level leadership. 
-• ESG & Portfolio Framework 
-o Designed a Modular Portfolio Framework 
-▪ Multi-Tier Portfolio Hierarchy: Created a system to consolidate multiple 
-ETFs and diverse asset classes (equities, bonds, etc.) into unified 
-portfolios—grouped under “low risk,” “medium risk,” and “high risk” 
-mandates. Linked numerous database tables via asset IDs, ensuring 
-seamless cross-referencing from individual holdings up through multiple 
-portfolio-level structures. 
-▪ ROI & Risk Monitoring: Developed a robust return-on-investment 
-module and risk framework—tracking exposures across daily intervals. 
-Incorporated advanced market, interest rate, and currency risk analytics 
-that aggregate performance metrics from the individual asset level to the 
-overarching mandate. 
-▪ Key Data Visualizations: 
-▪ Asset Allocation Plots: Displayed real-time allocations against 
-compliance thresholds, enabling proactive limit checks. 
-▪ Pie Charts: Illustrated weighting distributions across ETFs, 
-sectors, or asset types for at-a-glance oversight. 
-▪ Net Asset Value Graph: Compared each portfolio’s NAV 
-trajectory against benchmarks or peer portfolios, simplifying 
-performance evaluations. 
-▪ VaR Plot: Delivered visual risk assessments (e.g., Value at Risk) 
-to highlight potential drawdowns under adverse market 
-conditions. 
-o Extended the Python library to conduct ESG analytics (Weighted Average Carbon 
-Intensity, Total Financed Emissions) via data from MSCI, Bloomberg, and 
-Sustainalytics. 
-o Incorporated key governance and social KPIs for expanded ESG insights, aligning 
-with industry best practices. 
-• Analytics & Productivity Tools 
-o Enhanced business intelligence by introducing Python-based data manipulation 
-in Power BI dashboards, improving executive decision-making through clear, 
-real-time visuals. 
-o Deployed VBA macros and specialized Excel add-ins, automating budgeting 
-tasks, email workflows, and smaller ad-hoc processes—leading to significant 
-time savings. 
-o Streamlined stress testing with advanced quantile-based returns, drawdown 
-analysis, and log-return calculations, offering robust scenario modeling for 
-portfolio managers. 
-Key Tools & Skills: Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario 
-simulations, ESG data, Excel–Python integration, Power BI, geometric Brownian motion, SSE
-Simulations, Quantitative Analysis, Portfolio Construction & Optimization. 
-Data Quality Analyst 
+
+### Data Quality Analyst 
 Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023 
-• Assessed and documented data quality indicators for the upcoming IRB system 
-(scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, 
-and DoD procedures to enhance data integrity and reporting accuracy. 
-o Running through data quality dimensions: Accuracy, completeness, 
-consistency, validity, uniqueness, integrity 
-o convened with stakeholders, head of IRB, IRB analysts and model validators to 
-make sure our process was taking into account the correct variables 
-o Produced data quality reports, presented them to stakeholders and reevaluated 
-key data quality indicators 
-o Mapped and visually represented complex database architectures, illustrating 
-relationships among SAS tables for credit evaluation, IRB, and transactional 
-systems. 
-• Conducted comprehensive reviews of the "high-risk customer evaluation process" 
-o conducted codereview of the codebase and documented the database mapping 
-related to the process 
-o Presented my findings to the head of credit, head of IT and head of internal 
-review. 
-• Engineered and maintained a SAS macro-driven solution for data warehouse quality 
-analysis, ensuring reliable and precise data quality reporting. 
-o The macro solution had the ability to run through data quality dimensions on 
-database tables: The dimensions testable were completeness, consistency, 
-validity, uniqueness and integrity 
-o The macro would run through tables in forward order, the current table, the 
-tables producing this table and the tables producing that table and so on. 
-Checking for integrity in the data as well. 
-• Work-related courses 
-o Lån&Spar course in basic SAS with SAS institute 
-o Lån&spar course in basic SQL with SAS institute 
-Key Tools & Skills: SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data 
-quality reporting, scrum methodology. 
-Python & VBA Course Instructor 
+
+### Python & VBA Course Instructor 
 DJØF | Copenhagen, Denmark | January 2023 – August 2023 
-• Curriculum Design & Delivery: 
-o Organized Excel, VBA, and Python coursework for audiences from beginners to 
-advanced, teaching automation, data manipulation, and best practices. 
-• Practical Project Focus: 
-o Incorporated real-world tasks (e.g., automating daily processes, analyzing data 
-sets) into the curriculum, enhancing learners’ job readiness. 
-• Pedagogical Techniques: 
-o Utilized interactive learning (Q&A sessions, breakout workshops), and refined 
-course material based on participant feedback. 
-o Completed a 3-day training on professional teaching methodologies, 
-emphasizing clarity and structured presentation. 
-Key Tools & Skills: Teaching, Python, VBA, Excel automation, pedagogical presentation 
-strategies. 
-Financial Data Analyst 
+
+### Financial Data Analyst 
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023 
-• Timesheet & Budgeting System 
-o Administered a comprehensive timesheet and budgetting platform, performing 
-in-depth analyses of hours worked, salary payment updates, and budget 
-distribution across multiple departments. 
-o Ran monthly data extractions in SAS/SQL, providing budgetting and salary 
-forecasts, employee hour estimates, and “borrowed hours” reallocation to 
-ensure accurate resource planning. 
-o Performed code reviews with colleagues to maintain coding standards and 
-validate data integrity. 
-o Integrated multiple platforms for seamless data flow and reporting: combined 
-Microsoft Navision (bookkeeping), Microsoft Dynamics (CRM), and legacy 
-budget solutions with SAS/SQL pipelines to enhance accuracy and visibility 
-across finance, CRM, and project management functions. 
-• Donations Management 
-o Assisted in the management of the end-to-end Donations System, incorporating 
-C#, SQL, and Excel to maintain reliability and scalability of financial tracking. 
-o Developed an API solution to integrate data from the legacy donations platform, 
-enabling real-time monitoring of income streams, expenses, and project usage. 
-o Delivered enhanced analytical capabilities that gave the finance team a clear 
-view of donation flows and forecasted future budget movements. 
-• Project Financing & Analysis 
-o Led the development of a robust software ecosystem—using Excel, VBA/VBS, 
-SAS, and SQL—to consolidate and analyze multifaceted project data (employee 
-hours, overhead, CRM costs, external expenditures). 
-o Enabled dynamic project classifications by profitability, lead ownership, or 
-expense flows, enhancing transparency in resource allocation and ROI. 
-o Automated email notifications to project leaders, prompting regular updates or 
-closure on completed/annual projects. 
-• Business Intelligence & Executive Reporting 
-o Created Power BI dashboards providing executive-level insights into fund 
-allocation, project performance metrics, and key analytics—directly influencing 
-C-suite decision-making. 
-o Conducted ad-hoc data analysis in SAS, SQL, and Excel to investigate funding 
-surpluses or shortfalls, employee utilization, and returns on major organizational 
-initiatives. 
-o Collaborated with cross-departmental stakeholders to support policy decisions 
-through data-driven evidence, streamlining internal processes and improving 
-departmental efficiency. 
-• Work-related courses 
-o Statistics Denmark, SAS programmer course series, with SAS institute 
-o Internal company course on "Statistics with R I" 
-o Internal company course on "Statistics with R II" 
-o Internal company course on "Introduction to demographical statistics" 
-• Passed a round of security checks regarding my criminal record. 
-Key Tools & Skills: SAS, SQL, C#, Excel (VBA/VBS), data analysis, ETL pipelines, business 
-intelligence (Power BI), budgeting systems (Navision/Dynamics), code reviews, and cross
-departmental collaboration. 
-Store Clerk 
+
+### Store Clerk 
 WHSmith | Copenhagen, Denmark | August 2021 – August 2022 
-• Provided exceptional customer service, assisting travelers with purchases, inquiries, 
-and store navigation in a high-traffic airport environment. 
-• Managed shelving, restocking, and inventory control, ensuring optimal product 
-placement and store organization. 
-• Maintained storage areas, tracking stock levels and coordinating with suppliers to 
-prevent shortages. 
-• Security & Compliance: 
-o Successfully completed the Copenhagen Airport, security Awareness certificate, 
-ensuring adherence to airport safety protocols. 
-o Passed comprehensive background checks, verifying a clean criminal record in 
-accordance with airport security regulations. 
-o Completed specialized training in assisting individuals with both visible 
-(blindness, mobility impairments) and invisible disabilities (autism, OCD, 
-anxiety disorders), ensuring inclusive and compassionate customer 
-interactions. Visitor course 
-Key Skills: Customer service, inventory management, security compliance, accessibility 
-awareness, multitasking in high-paced environments. 
-Mathematics & Physics Tutor 
+
+### Mathematics & Physics Tutor 
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021 
-• Top-5 of 2000 Senior Mentor with 1,000+ hours of tutoring experience, successfully 
-preparing 50+ students for mathematics and physics exams. 
-• Achieved an average satisfaction rating of 4.7/5, consistently helping students improve 
-performance and exceed grade expectations through personalized learning strategies. 
-• Specialized in breaking down complex mathematical and physics concepts into 
-intuitive, digestible explanations, tailored to diverse learning styles. 
-• Completed a pedagogical presentation training course to enhance teaching 
-effectiveness and student engagement. 
-• Cleared extensive security background checks, meeting strict requirements for working 
-closely with children and young students. 
-Key Skills: Mathematics instruction, physics tutoring, exam preparation, personalized learning 
-strategies, pedagogical presentation, student engagement, mentorship. 
-Store Clerk 
+
+### Store Clerk 
 Lidl | Copenhagen, Denmark | April 2019 – August 2020 
-• Operated forklifts and pallet jacks to transport and stock goods efficiently, ensuring a 
-well-organized and safe storage environment. 
-• Managed shelving and restocking, optimizing product placement and maintaining 
-inventory accuracy to improve customer shopping experience. 
-• Provided customer service, assisting shoppers with inquiries, locating products, and 
-handling transactions at checkout. 
-• Maintained cleanliness and order throughout the store, ensuring compliance with safety 
-and hygiene regulations. 
-Key Skills: Inventory management, forklift operation, customer service, retail logistics, store 
-maintenance. 
-Data Analyst Intern - Single project internship 
+
+### Data Analyst Intern - Single project internship 
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019 
-• Analyzed cash flows and projected ROI to evaluate forex bot products, identifying 
-potential scams and advising client on safer investment alternatives by leveraging in
-depth knowledge of currency trading and expected returns. 
-Key Skills: Financial modeling, risk assessment, forex trading evaluation, investment strategy, 
-Excel-based financial projections, and client advisory. 
-Night shift Store Manager 
+
+### Night shift Store Manager 
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 
 2018 
-• Managed store operations during night and early morning shifts, ensuring smooth 
-workflow and high customer satisfaction. 
-• Prepared fresh food items, including baking cakes, pastries, and making sandwiches to 
-maintain a high-quality product offering. 
-• Oversaw inventory management, organizing storage areas, freezers, and shelves while 
-maintaining optimal stock levels. 
-• Restocked and arranged products efficiently, implementing an organized layout to 
-enhance customer convenience and sales. 
-• Provided excellent customer service, handling transactions at the cashier, addressing 
-inquiries, and resolving customer concerns. 
-• Coordinated deliveries, receiving and processing shipments to ensure timely 
-replenishment of store inventory. 
-• Handled operational challenges, troubleshooting issues in real-time to maintain 
-seamless store functionality. 
-• Managed recycling and waste disposal, overseeing bottle return systems and ensuring 
-compliance with environmental regulations. 
-Key Skills: Retail management, inventory control, customer service, food preparation, logistics 
-coordination, problem-solving. 
-Education 
-B.Sc. in Mathematics & Technology, Danish Technical University, 2025-2027 
+
+# Education 
+### B.Sc. in Mathematics & Technology, Danish Technical University, 2025-2027 
 Result: Not started yet 
 Thesis: “Option pricing etc.” 
 Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Advanced python 
 programming, ... 
 GPA: Unknown 
-B.Sc. in Mathematical Statistics, University of Copenhagen, 2019-2024 
+
+### B.Sc. in Mathematical Statistics, University of Copenhagen, 2019-2024 
 Result: Failed 
 Thesis: “Option Pricing with Stochastic Volatility in the Heston Model” - developed as a library 
 in R and used by the company EnvisionRisk 
@@ -385,18 +113,21 @@ announcement of Apple and AuthenTec
 Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Life insurance, 
 General Insurance, Advanced probability theory, Differential Geometry 
 GPA: approximately 4/12 
-B.Sc. in Mathematical physics, University of Copenhagen, 2017-2019 
+
+### B.Sc. in Mathematical physics, University of Copenhagen, 2017-2019 
 Result: Dropped-out 
 First year project: “Rotational speed analysis of spiral galaxies with Dark Matter” 
 Relevant coursework: Mechanics I & II, Thermodynamics, Electrodynamics, Quantum 
 Mechanics I & II, Galactic astrophysics, Complex Analysis I & II. 
 GPA: approximately 4/12 
-Ordinary student exam - KNord Lyngby STX, Denmark Kongens Lyngby 
+
+### Ordinary student exam - KNord Lyngby STX, Denmark Kongens Lyngby 
 Subjects: Danish A, English A, History A, Mathematics A, Physics A, Chemistry B, German B, 
 Biology C, Design C, Innovation C, Philosophy C, Religion C, Social Science C, Natural science 
 introduction C, General language C 
 GPA: approximately 8.5/12. 
-Courses, Certifications and continuous learning 
+
+## Courses, Certifications and continuous learning 
 2025 
 • Unknown, multiple - Henrik Hørsløv Larsen - beer meetup 
 • 7/2/2025 - Peter Pommergård Holm - beer meetup 
@@ -415,7 +146,9 @@ Correlations Between S&P and VIX Markets
 • 11/5/2025 - London Investors and Traders Group - Discussion & Networking 
 • 12/5/2025 - Great Britain Crypto, Forex/Gold, Stock/Index Trading Community Meetup! 
 • 13/5/2025 - London Quant Group - Artur Sepp - The Science and Practice of Trend
-following Systems 
+
+
+### following Systems 
 • Forage Citi - Markets Quantitative Analysis 
 • Forage Standard Bank - Risk Management 
 • Forage Goldman Sachs - Risk 
