@@ -129,11 +129,12 @@ GPA: approximately 8.5/12.
 - 8/3/2025 - Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements 
 - 11/3/2025 - Imperial College - Daniel Lacker - Non asymptomatic perspectives on mean field approximations and stochastic control 
 - 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference 
-- 8/4/2025 - London Quant Group - Smart Money, Digital Currencies and the Emerging New World Order 
+- 8/4/2025 - London Quant Group & Bloomberg - Smart Money, Digital Currencies and the Emerging New World Order 
 -  7/5/2025 - CQF Institute - Professor Laura Ballotta - The Term Structure of Implied Correlations Between S&P and VIX Markets 
 - 11/5/2025 - London Investors and Traders Group - Discussion & Networking 
 - 12/5/2025 - Great Britain Crypto, Forex/Gold, Stock/Index Trading Community Meetup! 
 - 13/5/2025 - London Quant Group - Artur Sepp - The Science and Practice of Trend
+- ??? Bloomberg event
 - 4/6/2025 - CQF Institute - Volatility conference
 - 5/6/2025 - Learning the values of illiquid bonds
 
