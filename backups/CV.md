@@ -98,54 +98,44 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 # Education 
 ### B.Sc. in Mathematics & Technology, Danish Technical University, 2025-2027 
-Result: Not started yet 
-Thesis: “Option pricing etc.” 
-Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Advanced python 
-programming, ... 
+Result: Not started yet \
+Thesis: “Option pricing etc.” \
+Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Advanced python \
+programming, ... \
 GPA: Unknown 
 
 ### B.Sc. in Mathematical Statistics, University of Copenhagen, 2019-2024 
-Result: Failed 
-Thesis: “Option Pricing with Stochastic Volatility in the Heston Model” - developed as a library 
-in R and used by the company EnvisionRisk 
-First year project: "Event study in the stock market" - Event study on the acquisition 
-announcement of Apple and AuthenTec 
-Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Life insurance, 
-General Insurance, Advanced probability theory, Differential Geometry 
+Result: Failed \
+Thesis: “Option Pricing with Stochastic Volatility in the Heston Model” - developed as a library in R and used by the company EnvisionRisk \
+First year project: "Event study in the stock market" - Event study on the acquisition announcement of Apple and AuthenTec \
+Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Life insurance, General Insurance, Advanced probability theory, Differential Geometry \
 GPA: approximately 4/12 
 
 ### B.Sc. in Mathematical physics, University of Copenhagen, 2017-2019 
-Result: Dropped-out 
-First year project: “Rotational speed analysis of spiral galaxies with Dark Matter” 
-Relevant coursework: Mechanics I & II, Thermodynamics, Electrodynamics, Quantum 
-Mechanics I & II, Galactic astrophysics, Complex Analysis I & II. 
+Result: Dropped-out \
+First year project: “Rotational speed analysis of spiral galaxies with Dark Matter”  \
+Relevant coursework: Mechanics I & II, Thermodynamics, Electrodynamics, Quantum Mechanics I & II, Galactic astrophysics, Complex Analysis I & II. \
 GPA: approximately 4/12 
 
 ### Ordinary student exam - KNord Lyngby STX, Denmark Kongens Lyngby 
-Subjects: Danish A, English A, History A, Mathematics A, Physics A, Chemistry B, German B, 
-Biology C, Design C, Innovation C, Philosophy C, Religion C, Social Science C, Natural science 
-introduction C, General language C 
+Subjects: Danish A, English A, History A, Mathematics A, Physics A, Chemistry B, German B, Biology C, Design C, Innovation C, Philosophy C, Religion C, Social Science C, Natural science introduction C, General language C \
 GPA: approximately 8.5/12. 
 
 ## Courses, Certifications and continuous learning 
-2025 
-• Unknown, multiple - Henrik Hørsløv Larsen - beer meetup 
-• 7/2/2025 - Peter Pommergård Holm - beer meetup 
-• 13/2/2025 - Oxford Mathematical and Computational Finance - Eghbal Rahimikia - 
-Revisiting Large Language Models in Finance 
-• 27/2/2025 - Quant Insider – Andrey Chirikhin – Introduction to Credit Derivatives 
-• 8/3/2025 - Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical 
-Portfolio Optimization Using Schur Complements 
-• 11/3/2025 - Imperial College - Daniel Lacker - Non asymptomatic perspectives on 
-mean field approximations and stochastic control 
-• 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference 
-• 8/4/2025 - London Quant Group - Smart Money, Digital Currencies and the Emerging 
-New World Order 
-• 7/5/2025 - CQF Institute - Professor Laura Ballotta - The Term Structure of Implied 
-Correlations Between S&P and VIX Markets 
-• 11/5/2025 - London Investors and Traders Group - Discussion & Networking 
-• 12/5/2025 - Great Britain Crypto, Forex/Gold, Stock/Index Trading Community Meetup! 
-• 13/5/2025 - London Quant Group - Artur Sepp - The Science and Practice of Trend
+- Unknown, multiple - Henrik Hørsløv Larsen - beer meetup 
+- 7/2/2025 - Peter Pommergård Holm - beer meetup 
+- 13/2/2025 - Oxford Mathematical and Computational Finance - Eghbal Rahimikia - Revisiting Large Language Models in Finance 
+- 27/2/2025 - Quant Insider – Andrey Chirikhin – Introduction to Credit Derivatives 
+- 8/3/2025 - Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements 
+- 11/3/2025 - Imperial College - Daniel Lacker - Non asymptomatic perspectives on mean field approximations and stochastic control 
+- 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference 
+- 8/4/2025 - London Quant Group - Smart Money, Digital Currencies and the Emerging New World Order 
+-  7/5/2025 - CQF Institute - Professor Laura Ballotta - The Term Structure of Implied Correlations Between S&P and VIX Markets 
+- 11/5/2025 - London Investors and Traders Group - Discussion & Networking 
+- 12/5/2025 - Great Britain Crypto, Forex/Gold, Stock/Index Trading Community Meetup! 
+- 13/5/2025 - London Quant Group - Artur Sepp - The Science and Practice of Trend
+- 4/6/2025 - CQF Institute - Volatility conference
+- 5/6/2025 - Learning the values of illiquid bonds
 
 
 ### following Systems 
