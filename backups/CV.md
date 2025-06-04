@@ -19,8 +19,7 @@ Quantnet-forum-username: MarkBrezina
 • Immediately available for work. \
 • Open to work: full-time, part-time, internship, contract, permanent. \
 • Danish native, with citizenship. Available for work in Denmark. \
-• European native, with citizenship. Available for work in all of the European Union, \
-Iceland, Greenland, Norway, Switzerland and more. \
+• European native, with citizenship. Available for work in all of the European Union, Iceland, Greenland, Norway, Switzerland and more. \
 • UK partner visa holder, Right to work in the UK, no future sponsorship required. 
 
 
