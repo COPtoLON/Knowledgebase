@@ -5,8 +5,8 @@ Height: 171cm \
 Weight: 80kg \
 Gender: Male \
 IQ-Score: 159 (tested) \
-Address: London SE8 4DA, UK \
-### Contact information \
+Address: London SE8 4DA, UK 
+### Contact information 
 UK-phone: (+44) 7761917490 \
 DK-phone: (+45) 93904834 \
 Private-email: mark@brezina.dk \
@@ -14,14 +14,14 @@ Work-email: cphtolon@gmail.com \
 Linkedin: https://www.linkedin.com/in/coptolon/ \
 GitHub: https://github.com/COPtoLON \
 Wilmott-forum-username: CopenhagentoLondon, MarkBrezina \
-Quantnet-forum-username: MarkBrezina \
-### Availability \
+Quantnet-forum-username: MarkBrezina 
+### Availability 
 • Immediately available for work. \
 • Open to work: full-time, part-time, internship, contract, permanent. \
 • Danish native, with citizenship. Available for work in Denmark. \
 • European native, with citizenship. Available for work in all of the European Union, \
 Iceland, Greenland, Norway, Switzerland and more. \
-• UK partner visa holder, Right to work in the UK, no future sponsorship required. \
+• UK partner visa holder, Right to work in the UK, no future sponsorship required. 
 
 
 ## Personal Statement: \
