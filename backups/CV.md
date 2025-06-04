@@ -137,6 +137,7 @@ GPA: approximately 8.5/12.
 - ??? Bloomberg event
 - 4/6/2025 - CQF Institute - Volatility conference
 - 5/6/2025 - Learning the values of illiquid bonds
+- 11/6/2025 - Financial Reasoning Agents: In-Context Reinforcement Learning and Test-Time Compute' with Nicole Königstein
 
 
 ### following Systems 
